@@ -20,3 +20,7 @@ Corporations use your personal data — where you live, what you search, how oft
 ---
 
 Motion M-30 — MP Leah Gazan (Winnipeg Centre, NDP) — 45th Parliament, 1st Session
+
+---
+
+Maintained by [@barrettsoron](https://github.com/barrettsoron), membership secretary, Vancouver Centre NDP. Questions: hello@vcndp.ca
