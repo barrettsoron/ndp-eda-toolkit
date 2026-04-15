@@ -14,7 +14,8 @@ ORANGE = HexColor('#F58220')
 DARK   = HexColor('#58595B')
 LIGHT  = HexColor('#CCCCCC')
 
-LOGO_PATH = '/Users/mbbs/projects/vcndp-summer2026/surveillance-pricing/ndp-logo-white.png'
+import os
+LOGO_PATH = os.path.join(os.path.dirname(__file__), 'ndp-logo-white.png')
 
 BAR_H      = 44            # 2-line bar: title + attribution, with breathing room
 TOP_PAD    = 18            # ~0.25" print margin above bar
@@ -177,7 +178,7 @@ def draw_cut_line(c):
     c.drawCentredString(PAGE_W / 2, cut_y + 2, '✂')
 
 
-out = '/Users/mbbs/projects/vcndp-summer2026/surveillance-pricing/surveillance-pricing-petition.pdf'
+out = os.path.join(os.path.dirname(__file__), 'surveillance-pricing-petition.pdf')
 c = canvas.Canvas(out, pagesize=letter)
 draw_form(c, PAGE_H)     # top half
 draw_cut_line(c)

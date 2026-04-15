@@ -51,3 +51,7 @@ No design software required.
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use, adapt, and share with attribution.
+
+---
+
+Maintained by [@barrettsoron](https://github.com/barrettsoron), membership secretary, Vancouver Centre NDP. Questions: hello@vcndp.ca
