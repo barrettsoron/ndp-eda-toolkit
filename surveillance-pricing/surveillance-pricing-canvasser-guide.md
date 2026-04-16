@@ -13,6 +13,17 @@ Use "unfair and downright creepy" if it feels right. It usually does.
 
 ---
 
+## What's happening in Parliament (if they ask)
+
+- **April 13:** MP Leah Gazan tabled Motion M-30, calling on the federal government to ban surveillance pricing.
+- **April 15:** NDP Parliamentary Leader Don Davies asked the House to agree by unanimous consent — the Liberals blocked it.
+- **Liberal response:** They say they're "looking into it" via the Competition Bureau. That's a review process, not a ban, and not binding.
+- **What's next:** M-30 is in the parliamentary queue but may wait months before it comes to a vote. That's exactly why this petition matters — it builds the public record that makes inaction politically costly.
+
+**Note on this petition:** This is an advocacy petition, not yet an official parliamentary petition. Official parliamentary petitions have specific formatting requirements and must be certified and tabled by an MP. This one is a public pressure tool — but the signatures, names, and postal codes we're collecting are exactly what an official petition needs. Think of it as building toward one.
+
+---
+
 ## What surveillance pricing is (if they ask)
 
 When you shop online — or use your loyalty card in-store — the retailer collects data about you: where you live, when you shop, what you've bought before, how price-sensitive you seem. An AI algorithm processes all of it and figures out the highest price you personally will pay. Then it charges you that.
@@ -44,6 +55,10 @@ It's already spreading into groceries, rental housing, ride-sharing, concert tic
 **"If I don't like it, I can shop somewhere else."**
 
 > "That's getting harder. When multiple grocery chains use the same third-party pricing algorithm, they can effectively align on prices without any formal agreement. The algorithm does the coordination. You can't opt out by switching stores if all the stores are using the same system."
+
+**"But isn't the government already looking at it?"**
+
+> "The Liberals said they're 'looking into it' through the Competition Bureau. That's not a ban — that's a study. The NDP asked for unanimous consent to act immediately, on April 15. The Liberals said no. A review doesn't stop the practice while it's being reviewed."
 
 **"I don't have anything to hide."**
 

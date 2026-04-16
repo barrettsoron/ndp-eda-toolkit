@@ -6,6 +6,22 @@
 
 ---
 
+## Reactive — April 15 (use now, while the news is fresh)
+
+**Short (Twitter / X):**
+Today the Liberals blocked the NDP's motion to ban surveillance pricing. One objection. That's all it takes. The petition is still open — and every signature builds the case: ndp.ca/ban-surveillance-pricing
+
+**Medium (Facebook / Instagram):**
+Today in the House of Commons, NDP Parliamentary Leader Don Davies asked MPs to agree — by unanimous consent — to ban surveillance pricing. The Liberals said no.
+
+Their answer: they're "looking into it" through the Competition Bureau. That's not a ban. That's a delay.
+
+Motion M-30, tabled by MP Leah Gazan, is still in the queue — but it may wait months before it comes to a vote. The petition is how we keep the pressure on in the meantime. Every signature is a piece of the public record that makes inaction harder to justify.
+
+Sign: ndp.ca/ban-surveillance-pricing — and share this so others can too.
+
+---
+
 ## Short (Twitter / X — under 280 characters)
 
 **Option A — equity frame:**

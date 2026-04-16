@@ -61,6 +61,18 @@ New Democrats are calling on the federal government to ban the use of personal d
 
 ---
 
+## What Parliament has done — and hasn't
+
+On April 13, 2026, MP Leah Gazan tabled Motion M-30, calling on the federal government to ban surveillance pricing. Two days later, NDP Parliamentary Leader Don Davies asked the House to agree by unanimous consent — the fastest possible route to a symbolic commitment. The Liberals blocked it.
+
+Their response: the government is "looking into" algorithmic pricing through the Competition Bureau. A review is not a ban. It doesn't stop the practice while it proceeds.
+
+M-30 remains in the parliamentary queue. It may wait months before it comes up for debate — parliament could dissolve before it does. The petition builds the public record in the meantime, and it builds toward an official parliamentary petition that an MP can table in the House.
+
+Every signature demonstrates that Canadians are paying attention.
+
+---
+
 ## Sign the petition
 
 **ndp.ca/ban-surveillance-pricing**

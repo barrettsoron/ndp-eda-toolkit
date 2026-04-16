@@ -10,7 +10,9 @@ Hi [Name],
 
 You may have seen Avi Lewis's press conference earlier this week on surveillance pricing — the practice of corporations using your personal data to figure out the maximum price you'll pay, and then charging you that.
 
-It's a strong issue. The federal NDP has an active petition at ndp.ca/ban-surveillance-pricing, and we've put together a package of assets that any EDA or adjacent organization can use independently — no coordination required, no permission needed.
+It's a strong issue — and it moved fast this week. On April 13, MP Leah Gazan tabled Motion M-30. On April 15, Don Davies asked the House to act by unanimous consent. The Liberals blocked it, saying they're "looking into it" through the Competition Bureau. That's not a ban. M-30 is in the queue but may not come to a vote for months. That's exactly why EDA-level organizing matters right now.
+
+The federal NDP has an active petition at ndp.ca/ban-surveillance-pricing, and we've put together a package of assets that any EDA or adjacent organization can use independently — no coordination required, no permission needed.
 
 **What's in the package:**
 
