@@ -34,6 +34,25 @@ uv run python make-petition-fr.py
 
 **E-petition:** [ndp.ca/ban-surveillance-pricing](https://ndp.ca/ban-surveillance-pricing) · [npd.ca/interdire-tarification-surveillance](https://www.npd.ca/interdire-tarification-surveillance)
 
+### [`data-centre-regina/`](data-centre-regina/)
+
+Assets for the community campaign to pause Bell Canada's 300 MW AI data centre in the RM of Sherwood, outside Regina, Saskatchewan (Treaty 4 territory).
+
+**Bell** is building Canada's largest purpose-built AI data centre campus — 160 acres, $1.7 billion — serving American AI companies CoreWeave and Cerebras. NDP Leader Avi Lewis has committed to a [Humans-First AI Policy](https://lewisisleader.ca/ideas/dignified-work) that includes pausing data centre expansion to protect clean water, affordable energy, and community decision-making.
+
+| File | Description |
+|------|-------------|
+| `petition.md` | Petition copy — physical signature format, NDP privacy footer |
+| `canvass-guide.md` | Door-to-door and table talking points, objection handling, data custody |
+| `fact-sheet.md` | One-page backgrounder / leave-behind |
+| `tenant-explainer.md` | Backgrounder on CoreWeave and Cerebras — origins, military/intelligence ties, investors |
+| `social-copy.md` | Social media copy — short (Twitter/X), medium, and long (Facebook/Instagram) |
+| `chapter-email.md` | Member email announcing the petition drive |
+| `indigenous-consultation-questions.md` | Conversation-starters for organizer to bring to local First Nations contacts |
+| `README.md` | Overview, e-petition note, data custody, sources |
+
+**Physical signatures only** for now. See the module README for e-petition guidance.
+
 ---
 
 ## Adapting for Your EDA
@@ -48,7 +67,7 @@ No design software required.
 
 ---
 
-## License
+## Licence
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use, adapt, and share with attribution.
 
