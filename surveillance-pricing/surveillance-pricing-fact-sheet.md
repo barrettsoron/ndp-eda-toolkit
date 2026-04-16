@@ -11,11 +11,26 @@ Surveillance pricing is when a company uses your personal data — where you liv
 
 Not the market price. Your price.
 
-Two people standing in the same store, or looking at the same product online, can be charged two different amounts — based on what the algorithm has learned about each of them.
+---
+
+## How the price finds you — online and in-store
+
+**Online.** Two people looking at the same product on the same site can be shown two different prices. The algorithm knows your account, your device, your location, your history — and sets your price before you click buy.
+
+**In-store.** The shelf price isn't a neutral baseline — it's the ceiling. Your "personal price" is that ceiling, minus whatever relief the algorithm has decided you deserve on your phone. The shelf tag itself can now change many times a day.
+
+Who pays the most isn't random. It's the shoppers with the weakest position in the algorithm's eyes:
+
+- **Shoppers without the app** — no account, no phone, no data to trade — pay the full ceiling. Every time. Often older, often lower-income.
+- **Predictable, loyal shoppers** get *worse* targeted offers, not better. The algorithm knows you're coming back either way. Retention discounts are spent on shoppers who might leave.
+- **Shoppers flagged as necessity buyers** — diapers, medicine, formula, special-diet items — see prices walked up over time, because the data says you'll pay it.
+- **Electronic shelf labels** let retailers raise the ceiling in real time, tuned to when the store is busy, when competitors are closed, or when the weather means nobody wants to drive farther. Loblaws, Sobeys, and Walmart Canada are rolling these out.
+
+Every loyalty card scan, app open, and store-Wi-Fi ping also trains the profile that prices you online. The "regular" price and the "personal" price aren't alternatives — they're two parts of one engineered system, both designed to find the maximum each shopper will pay.
 
 ---
 
-## How does it work?
+## How does the data get collected?
 
 Retailers and tech companies collect data about you constantly: through your loyalty card, your phone's location, your browsing history, your past purchases, and data purchased from third-party brokers. An AI algorithm processes all of it to estimate your "willingness to pay" — and sets a price accordingly.
 

@@ -28,9 +28,11 @@ Use "unfair and downright creepy" if it feels right. It usually does.
 
 When you shop online — or use your loyalty card in-store — the retailer collects data about you: where you live, when you shop, what you've bought before, how price-sensitive you seem. An AI algorithm processes all of it and figures out the highest price you personally will pay. Then it charges you that.
 
-Two people buying the same box of cereal can pay different amounts, and neither of them knows it.
+**Online** — two people looking at the same product on the same site can see two different prices. That's the clearest version of this.
 
-It's already spreading into groceries, rental housing, ride-sharing, concert tickets, utilities, and pharmaceuticals.
+**In-store** — the shelf price is the ceiling, and the algorithm decides who gets relief from it. Shoppers without the app pay that ceiling every time. Shoppers who are loyal and predictable get *worse* targeted offers, not better — retention discounts go to customers who might leave. Shoppers the algorithm has flagged as necessity buyers — diapers, medicine, formula — see the price walked up over time. And the shelf tags themselves are going digital: Loblaws, Sobeys, and Walmart Canada are rolling out electronic shelf labels retailers can update remotely, many times a day.
+
+Two people buying the same box of cereal can pay different amounts, and neither of them knows it. It's already spreading into groceries, rental housing, ride-sharing, concert tickets, utilities, and pharmaceuticals.
 
 ---
 
@@ -51,6 +53,10 @@ It's already spreading into groceries, rental housing, ride-sharing, concert tic
 **"Isn't this just regular pricing? Supply and demand?"**
 
 > "Dynamic pricing — prices going up when demand is high — is different. Surveillance pricing uses your *personal* data to figure out what *you specifically* will pay. Same demand, same store, different price for different people based on their data profile. That's not a market — that's a targeting system."
+
+**"So the till charges me more than the person behind me? That's absurd."**
+
+> "Fair pushback — worth being clear about the mechanism. The shelf price is the ceiling — the same number to everyone standing in front of it. The *personal* part is who the algorithm gives relief to. Shoppers without the app pay the ceiling every time. Loyal, predictable shoppers get worse targeted offers, not better, because the algorithm knows you're coming back anyway — retention discounts go to customers who might leave. And the shelf tags themselves are going digital: Loblaws, Sobeys, and Walmart Canada can now change in-store prices remotely, many times a day. Online is where it's cleanest — same product, same site, different price depending on who's looking. The ban has to cover both."
 
 **"If I don't like it, I can shop somewhere else."**
 
