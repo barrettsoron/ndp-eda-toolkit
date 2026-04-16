@@ -63,9 +63,15 @@ The NDP wants to ban it. Add your name → ndp.ca/ban-surveillance-pricing
 
 **Title: "How stores are using your data to charge you more — and what we're doing about it"**
 
-Imagine two people walking into the same grocery store, putting the same box of cereal in their baskets. One pays $4.99. The other pays $5.79. They have no idea.
+Two people shop for the same box of cereal. One pays $4.99. The other pays $5.79. Neither knows.
 
-That's surveillance pricing — and it's already here.
+Online, this is the straightforward version: same product, same website, different price depending on who's logged in. The algorithm knows your account, your device, your history — and quietly sets your price before you click buy.
+
+In-store, it's not a neutral shelf price plus a friendly discount — it's a ceiling, and the algorithm decides who gets relief from it. Shoppers without the app pay the full ceiling every time (often older, often lower-income). Loyal, predictable shoppers get *worse* targeted offers, not better — retention discounts go to the people who might leave, not the people who'll be back next Tuesday. And shoppers flagged as necessity buyers — diapers, medicine, formula — see prices walked up over time, because the data says you'll pay it.
+
+Meanwhile the shelf tags themselves are going digital: Loblaws, Sobeys, and Walmart Canada are rolling out electronic shelf labels they can update remotely, many times a day, tuned to foot traffic and weather.
+
+The "regular" price and the "personal" price aren't alternatives. They're one pricing engine, designed to find the maximum each shopper will pay.
 
 Retailers and tech companies collect enormous amounts of data about you: your loyalty card scans, your location, your browsing history, your purchase patterns. An AI algorithm processes all of it to estimate what you personally are willing to pay — and sets your price accordingly.
 
