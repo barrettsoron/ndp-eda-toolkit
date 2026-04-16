@@ -12,3 +12,4 @@ __pycache__/
 # Internal notes
 CLAUDE.md
 *-research.md
+.claude/

@@ -100,4 +100,4 @@ Key data points referenced across all materials:
 
 ---
 
-*Prepared by Sword Fern Digital for Regina–Wascana NDP | April 2026*
+*Prepared by Barrett Soron for Regina–Wascana NDP | April 2026*

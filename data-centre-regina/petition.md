@@ -1,5 +1,7 @@
 # Petition: Pause the Bell AI Data Centre Until Our Community Has a Say
 
+*CIA Money. MAGA Investors. Our Grid, Our Choice.*
+
 **Regina–Wascana NDP | Physical signature collection**
 *Treaty 4 territory*
 

@@ -1,5 +1,7 @@
 # Bell's AI Data Centre: What Regina Needs to Know
 
+*CIA Money. MAGA Investors. Our Grid, Our Choice.*
+
 **Regina–Wascana NDP**
 *Treaty 4 territory | Data and sources reviewed and verified as of April 16, 2026.*
 

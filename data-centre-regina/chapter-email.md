@@ -2,7 +2,7 @@
 
 **From:** Regina–Wascana NDP
 **To:** EDA members / chapter leads
-**Subject:** Bell's AI data centre — what it means for Regina, and what you can do
+**Subject:** CIA money. MAGA investors. Our grid, our choice. — the petition drive
 
 ---
 

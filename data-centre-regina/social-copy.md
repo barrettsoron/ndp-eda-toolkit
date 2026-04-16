@@ -1,5 +1,7 @@
 # Social Copy: Data Centre Petition
 
+*"CIA Money. MAGA Investors. Our Grid, Our Choice."*
+
 **Regina–Wascana NDP | EDA social accounts**
 
 *Use or adapt freely. Tag @NDP if you want — not required.*

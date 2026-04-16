@@ -1,5 +1,7 @@
 # Who Are CoreWeave and Cerebras?
 
+*CIA Money. MAGA Investors. Our Grid, Our Choice.*
+
 **Regina–Wascana NDP**
 *Background on the anchor tenants of Bell's proposed AI data centre in the RM of Sherwood.*
 

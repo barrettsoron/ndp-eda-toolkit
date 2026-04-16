@@ -1,5 +1,7 @@
 # Canvasser Guide: Data Centre Petition
 
+*CIA Money. MAGA Investors. Our Grid, Our Choice.*
+
 **Regina–Wascana NDP | For volunteer use**
 *Data and sources reviewed and verified as of April 16, 2026.*
 
