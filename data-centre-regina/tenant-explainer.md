@@ -17,7 +17,7 @@ CoreWeave was founded in 2017 as **Atlantic Crypto** by Michael Intrator, Brian 
 
 **Financial profile:** CoreWeave went public on the NASDAQ in March 2025. The IPO was troubled — they had to reduce both the offering price and size. The company is deeply unprofitable, carrying roughly **$7.5 billion in debt**, much of it collateralized against their Nvidia GPU contracts. A single customer — Microsoft — reportedly accounted for more than 60% of their revenue at the time of the IPO. If AI demand softens, the debt structure becomes precarious.
 
-**Major investors:** Backers include **Magnetar Capital**, the hedge fund that became infamous for profiting from the 2008 financial crisis by betting against mortgage-backed securities it helped create. Other investors include Coatue Management, Jane Street, and Nvidia itself (which is both their supplier and an investor — a vertical entanglement that raises competition questions).
+**Major investors:** The company's $7.5 billion debt facility was co-led by **Blackstone** and **Magnetar Capital** — the hedge fund that became infamous for profiting from the 2008 financial crisis by betting against mortgage-backed securities it helped create. Other investors include Coatue Management, Jane Street, and Nvidia itself (which is both their supplier and an investor — a vertical entanglement that raises competition questions).
 
 **Workforce:** Roughly 1,000–1,500 employees manage billions in infrastructure. This is a capital-intensive model that creates very few local jobs — consistent with the 80 permanent positions Bell is projecting for the Saskatchewan facility.
 
@@ -39,7 +39,7 @@ Cerebras Systems builds wafer-scale AI processors — massive chips designed to 
 
 **UAE and Chinese military ties:** Cerebras's largest customer, accounting for **87% of its revenue** in the first half of 2024, was **G42** — a UAE-based AI conglomerate. The US House Select Committee on China flagged G42's CEO for affiliations with "companies that develop dual-use technologies and materially support PRC military-civil fusion and human rights abuses." G42 had business ties to Huawei and BGI Genomics (a Chinese genomics firm placed on the US Entity List over surveillance concerns). Under pressure from the Committee on Foreign Investment in the United States (CFIUS), G42 was forced to divest from Chinese companies, and its Cerebras stake was restructured to non-voting shares.
 
-**Withdrawn IPO:** Cerebras filed for a public offering in 2024 but **withdrew it in October 2025** amid the CFIUS investigation into its G42 relationship. The company raised $1 billion privately and is reportedly planning a new listing.
+**Postponed and withdrawn IPO:** Cerebras filed for a public offering in 2024 but **postponed and then withdrew it in October 2025** amid the CFIUS national-security review of G42's ownership stake. The company raised $1 billion privately and has refiled — targeting a 2026 listing, with G42 reportedly no longer listed as an investor.
 
 ---
 

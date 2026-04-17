@@ -19,21 +19,27 @@ If they seem interested, lead with whichever angle connects: energy bills, jobs,
 
 Bell Canada is building what it calls Canada's largest AI data centre campus — 300 MW on 160 acres in the RM of Sherwood, just south of the city. The announced investment is $1.7 billion. The anchor tenants are CoreWeave and Cerebras — both American AI companies.
 
-Construction is set to start this spring, with operations beginning mid-2027. SaskEnergy is building a new high-pressure natural gas pipeline specifically to feed the facility.
+Construction is set to start this spring, with operations expected by the end of 2027. SaskEnergy is building a new high-pressure natural gas pipeline specifically to feed the facility.
+
+The land is owned by **George Gordon First Nation**, which has signed a memorandum of understanding with Bell on Indigenous procurement and workforce development. If someone raises that, acknowledge it honestly — the partnership is real — and pivot to the concerns that apply regardless: electricity rates, who actually uses the compute and under what law, and the absence of independent environmental review.
 
 ---
 
 ## Why it matters locally (use the angle that lands)
 
-**Energy bills:** "In Virginia, where data centres have clustered, electricity bills doubled for regular consumers. Saskatchewan's grid is already strained. A 300 MW facility is a huge new load — and SaskEnergy is building a new gas pipeline just to serve it. Who do you think pays when the grid gets more expensive to run?"
+**Energy bills:** "In Virginia, where data centres have clustered, regulators say residential electricity bills could more than double by 2045 unless data centres pay their fair share — and the state just had to create a special rate class to try to protect households. Saskatchewan's grid is already strained. A 300 MW facility is a huge new load, and SaskEnergy is building a new gas pipeline just to serve it. Who do you think pays when the grid gets more expensive to run?"
 
 **Jobs:** "Bell says 800 temporary construction jobs and 80 permanent ones. Eighty. For a facility that could reshape the province's energy future. That's not an economic development plan — that's a server farm."
 
-**Governance:** "Four of seven RM of Sherwood council members resigned right after this was announced. We still don't have a full picture of why. When elected representatives walk away, that's a sign the process wasn't working."
+**Governance:** "Four of seven RM of Sherwood council members resigned right after this was announced. The province then stepped in and appointed replacements — so the locally-elected oversight on this development was replaced with provincial appointees."
 
 **Data sovereignty:** "The anchor tenants are American AI companies — CoreWeave and Cerebras. Under US law — the CLOUD Act — American authorities can compel access to data stored by US companies, even when it's physically in Canada. This isn't theoretical. When the ICC prosecutor issued an arrest warrant for Netanyahu, Trump sanctioned him and Microsoft cut off his email. Microsoft France later admitted under oath to the French Senate that it 'cannot guarantee' it would deny US government requests for data stored in Europe. That's the same legal regime these data centres operate under."
 
-**Climate:** "Saskatchewan's grid runs on roughly 80% fossil fuels — coal and natural gas. A 300 MW data centre on this grid isn't green tech. It's a massive new source of carbon emissions, and it locks us into fossil fuels for decades."
+**Climate:** "Saskatchewan's grid runs on roughly 80–90% fossil fuels — coal and natural gas. A 300 MW data centre on this grid isn't green tech. SaskEnergy is building a new high-pressure gas pipeline just for this facility, and the province has said the baseload requirements justify refurbishing coal plants. Premier Moe has already committed to running coal until 2050. This project isn't neutral on climate — it's a reason to keep the coal burning."
+
+**Community impact:** "Data centres often target locations with weak governance or oversight. Bell has been short on details and slow to respond to local concerns about noise and light pollution, local water sources, storm drainage, and disturbance to the surrounding area. They recently held a private meeting with concerned landowners who had been formally requesting information for months. There's still nothing on record or binding about the impact to the area — or what can be done if they aren't compliant."
+
+**Public infrastructure, private profit:** "SaskPower, SaskEnergy, and SaskTel were built by CCF and NDP governments as public goods — Saskatchewan invented the Crown corporation. Bell already charges Canadians some of the highest phone and internet rates in the developed world, and now wants the publicly-built grid and a new publicly-funded gas pipeline to sell cheap compute to American AI firms. That's the public choice at stake: who do our utilities serve?"
 
 ---
 
@@ -43,7 +49,7 @@ It's worth knowing who Bell is building this for.
 
 **CoreWeave** started as a cryptocurrency mining company called Atlantic Crypto, founded in 2017 by three hedge fund traders. They pivoted to renting AI server capacity when the money shifted. They went public in early 2025 at a reduced price; the company is deeply unprofitable and carrying roughly $7.5 billion in debt. Major backers include Magnetar Capital — the hedge fund that famously profited from the 2008 financial crisis. About 1,000 employees manage billions in infrastructure. No published policy excluding surveillance or military AI applications from their platform.
 
-**Cerebras** is an AI chip company with active, multi-phase contracts with **DARPA** — the US military's research agency — including building real-time battlefield simulation and electronic warfare systems for the US Navy. The CIA's venture capital arm, **In-Q-Tel**, is an investor. So is **1789 Capital**, the anti-ESG fund co-founded by Rebekah Mercer (major Trump donor) and linked to Peter Thiel — an explicitly "America First" fund. Cerebras's largest customer, accounting for 87% of its revenue in the first half of 2024, was G42, a UAE AI conglomerate flagged by the US Congress for ties to Chinese military and human rights abuses. Cerebras withdrew its IPO in late 2025 amid a federal investigation into that relationship.
+**Cerebras** is an AI chip company with active, multi-phase contracts with **DARPA** — the US military's research agency — including building real-time battlefield simulation and electronic warfare systems for the US Navy. The CIA's venture capital arm, **In-Q-Tel**, is an investor. So is **1789 Capital**, the anti-ESG fund co-founded by Rebekah Mercer (major Trump donor) and linked to Peter Thiel — an explicitly "America First" fund. Cerebras's largest customer, accounting for 87% of its revenue in the first half of 2024, was G42, a UAE AI conglomerate flagged by the US Congress for ties to Chinese military and human rights abuses. Cerebras postponed its 2024 IPO after CFIUS — the US national-security review board — opened an investigation into G42's ownership stake, and withdrew the filing in October 2025. It is now refiling for a 2026 listing with G42 reportedly no longer an investor.
 
 These are the companies Saskatchewan is being asked to build public infrastructure for.
 
@@ -89,6 +95,10 @@ This isn't anti-technology. It's a call for technology that serves people, not t
 **"The provincial government supports it."**
 
 > "The provincial government also plans to run coal plants until 2050 — two decades past the federal phase-out deadline. Provincial support doesn't mean it's in the community's interest. That's what the petition is about: making sure the federal government uses its levers to protect communities, regardless of what the province signs off on."
+
+**"Isn't this an Indigenous-partnered project? Who is the NDP to object?"**
+
+> "George Gordon First Nation has signed a real partnership with Bell, and the land is GGFN-owned. That's legitimate Indigenous economic participation and we respect it. Our concerns are different: they're about electricity rates for every household in the province, who actually uses the compute and under what legal regime, the grid emissions and new pipelines SaskEnergy is building for this, and the absence of independent environmental review. None of that contradicts the GGFN partnership — it's about federal policy on the data centre industry as a whole, and about the American tenants who'll be leasing the servers."
 
 ---
 
