@@ -78,12 +78,13 @@ def draw_form(c, top_y):
                 width=logo_w, height=logo_h, mask='auto')
 
     c.setFillColor(white)
-    c.setFont('Helvetica-Bold', 10)
-    c.drawString(MARGIN + BASE, bar_y + 27, 'CIA MONEY. MAGA INVESTORS. OUR GRID, OUR CHOICE.')
+    c.setFont('Helvetica-Bold', 12)
+    c.drawString(MARGIN + BASE, bar_y + 27,
+        'Pause Bell\u2019s 300 MW AI Data Centre')
 
     c.setFont('Helvetica', 6)
     c.drawString(MARGIN + BASE, bar_y + 13,
-        'Pause Bell\u2019s 300 MW AI Data Centre \u2502 Regina\u2013Wascana NDP \u2502 Treaty 4 territory')
+        'Regina\u2013Wascana NDP \u2502 Treaty 4 territory \u2502 CIA Money. MAGA Investors. Our Grid, Our Choice.')
 
     # ── Summary ───────────────────────────────────────────────────────────────
     y = bar_y - SECT_GAP * 2

@@ -109,8 +109,8 @@ COVER_HTML = """\
 <body>
 <div class="cover">
   <div class="header-bar">
-    <div class="campaign">CIA Money. MAGA Investors. Our Grid, Our Choice.</div>
-    <div class="subtitle">Pause Bell&rsquo;s 300 MW AI Data Centre &mdash; Regina&ndash;Wascana NDP</div>
+    <div class="campaign">Pause Bell&rsquo;s 300 MW AI Data Centre</div>
+    <div class="subtitle">Regina&ndash;Wascana NDP &mdash; CIA Money. MAGA Investors. Our Grid, Our Choice.</div>
   </div>
 
   <div class="what">
