@@ -2,7 +2,7 @@
 
 **From:** Regina–Wascana NDP
 **To:** EDA members / chapter leads
-**Subject:** CIA money. MAGA investors. Our grid, our choice. — the petition drive
+**Subject:** Pause Bell's 300 MW AI data centre — the petition drive
 
 ---
 
