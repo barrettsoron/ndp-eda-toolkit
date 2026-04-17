@@ -31,7 +31,7 @@ The land is owned by **George Gordon First Nation**, which has signed a memorand
 
 **Jobs:** "Bell says 800 temporary construction jobs and 80 permanent ones. Eighty. For a facility that could reshape the province's energy future. That's not an economic development plan — that's a server farm."
 
-**Governance:** "Four of seven RM of Sherwood council members resigned right after this was announced. The province then stepped in and appointed replacements — so the locally-elected oversight on this development was replaced with provincial appointees."
+**Process:** "A $1.7-billion project that reshapes the province's grid is moving ahead without an independent environmental assessment and without meaningful public consultation. That's not how decisions of this scale should be made. A pause gives our democratic institutions time to catch up."
 
 **Data sovereignty:** "The anchor tenants are American AI companies — CoreWeave and Cerebras. Under US law — the CLOUD Act — American authorities can compel access to data stored by US companies, even when it's physically in Canada. This isn't theoretical. When the ICC prosecutor issued an arrest warrant for Netanyahu, Trump sanctioned him and Microsoft cut off his email. Microsoft France later admitted under oath to the French Senate that it 'cannot guarantee' it would deny US government requests for data stored in Europe. That's the same legal regime these data centres operate under."
 

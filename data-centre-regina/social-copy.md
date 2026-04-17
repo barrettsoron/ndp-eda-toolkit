@@ -16,8 +16,8 @@ Bell is building a 300 MW AI data centre outside Regina to serve American compan
 **Option B — jobs:**
 $1.7 billion investment. 80 permanent jobs. Bell's AI data centre near Regina is being built for American AI companies — not for Saskatchewan workers. The NDP is calling for a pause. We're collecting signatures locally.
 
-**Option C — governance:**
-Four of seven RM of Sherwood council members resigned after Bell's data centre announcement — and the province stepped in to appoint replacements. Locally-elected oversight on a major infrastructure decision is now in the hands of provincial appointees. We're petitioning for a federal pause until communities have a real say.
+**Option C — process:**
+A $1.7-billion project that reshapes Saskatchewan's grid is moving ahead without an independent environmental assessment and without meaningful public consultation. SaskEnergy is building a dedicated gas pipeline for it. We're petitioning for a federal pause until communities have a real say.
 
 **Option D — climate:**
 Saskatchewan's grid runs on 80% fossil fuels. A 300 MW AI data centre on that grid isn't green tech — it's a carbon anchor. The NDP leader has committed to pausing data centre expansion. We're collecting signatures in Regina–Wascana.
@@ -33,7 +33,7 @@ Bell's AI data centre near Regina is being built for CoreWeave — a former cryp
 
 Bell Canada is building a $1.7-billion AI data centre campus on 160 acres just outside Regina. The anchor tenants? CoreWeave and Cerebras — both American AI companies.
 
-Here's what Regina gets: 80 permanent jobs. A new natural gas pipeline. A 300 MW energy load on a grid that already runs on 80% fossil fuels. And a governance gap — four of seven RM of Sherwood council members resigned shortly after the announcement, and the province stepped in to appoint replacements.
+Here's what Regina gets: 80 permanent jobs. A new natural gas pipeline. A 300 MW energy load on a grid that already runs on 80% fossil fuels. And no independent environmental assessment.
 
 Here's what the American AI companies get: cheap Canadian energy and land for their servers.
 
@@ -65,7 +65,7 @@ Our electrical grid runs on roughly 80% fossil fuels — coal and natural gas. A
 
 SaskEnergy is already building a new high-pressure natural gas pipeline specifically to serve the facility. In Virginia, where data centres have clustered at industrial scale, regulators warn residential bills could more than double by 2045 without strict cost protections — and the state has already created a dedicated rate class to try to shield households. Saskatchewan families and businesses will bear the cost of the infrastructure this facility demands.
 
-The governance process hasn't inspired confidence either. Four of seven RM of Sherwood council members resigned shortly after the announcement, and the province appointed interim replacements — meaning locally-elected oversight on a major infrastructure decision was replaced with provincial appointees.
+The process hasn't inspired confidence either. No independent environmental assessment has been conducted. Bell has been slow to answer concerns from local landowners about noise, light, storm drainage, and disturbance to the surrounding area — and nothing about the impact is yet on the record or binding.
 
 And then there's data sovereignty. CoreWeave and Cerebras are US-incorporated companies. Under the American CLOUD Act, US authorities can compel access to data held by American companies — regardless of where it's physically stored. We're building critical AI infrastructure on Canadian soil for companies that answer to American law.
 

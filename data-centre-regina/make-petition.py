@@ -21,7 +21,7 @@ BAR_H      = 44
 TOP_PAD    = 18
 LABEL_SIZE = 7.0
 LINE_H     = 20
-SIG_LINE_H = 28
+SIG_LINE_H = 22
 FIELD_GAP  = 2
 SECT_GAP   = BASE
 SPLIT_RATIO = (0.62, 0.34)
@@ -94,9 +94,8 @@ def draw_form(c, top_y):
         'Bell Canada is building a 300 MW AI data centre campus in the RM of Sherwood \u2014 '
         'serving American AI firms CoreWeave and Cerebras (a US military contractor with active '
         'DARPA contracts and CIA venture funding) \u2014 with no meaningful community consultation, '
-        'no environmental assessment, and no democratic oversight. Four of seven RM of Sherwood '
-        'council members resigned after the announcement. We are calling on the federal government '
-        'to pause the project until our community has a say.'
+        'no environmental assessment, and no democratic oversight. We are calling on the federal '
+        'government to pause the project until our community has a say.'
     )
     for ln in wrap(c, summary, 'Helvetica', 8.5, INNER_W):
         c.drawString(MARGIN, y, ln)
