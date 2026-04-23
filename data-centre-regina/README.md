@@ -18,6 +18,7 @@ This is an riding-level initiative on **Treaty 4 territory**. All materials use 
 | `social-copy.md` | Social media copy — short (Twitter/X), medium, and long (Facebook/Instagram) |
 | `chapter-email.md` | Email to members announcing the petition drive |
 | `tenant-explainer.md` | Backgrounder on CoreWeave and Cerebras — origins, military/intelligence ties, investors |
+| `bell-response.md` | Claim-by-claim rebuttal of Bell's `businessmarkets.bell.ca/regina-info` page |
 | `indigenous-consultation-questions.md` | Conversation-starters for the local organizer to bring to First Nations contacts |
 
 ---
