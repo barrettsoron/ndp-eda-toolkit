@@ -23,6 +23,7 @@ DOCS = [
     "canvass-guide.md",
     "fact-sheet.md",
     "tenant-explainer.md",
+    "bell-response.md",
     "social-copy.md",
     "chapter-email.md",
     "indigenous-consultation-questions.md",
