@@ -41,6 +41,8 @@ The land is owned by **George Gordon First Nation**, which has signed a memorand
 
 **Public infrastructure, private profit:** "SaskPower, SaskEnergy, and SaskTel were built by CCF and NDP governments as public goods — Saskatchewan invented the Crown corporation. Bell already charges Canadians some of the highest phone and internet rates in the developed world, and now wants the publicly-built grid and a new publicly-funded gas pipeline to sell cheap compute to American AI firms. That's the public choice at stake: who do our utilities serve?"
 
+**Sovereignty framing:** "Bell's page brands this as 'Sovereign AI infrastructure — built by Canadians, for Canada.' But Bell is the landlord. The tenants — CoreWeave and Cerebras — are American AI companies operating under US law. Under the CLOUD Act, the jurisdiction running these servers is American. A Canadian postal address doesn't make Canadian-controlled infrastructure."
+
 ---
 
 ## Who are the tenants?
@@ -86,7 +88,7 @@ This isn't anti-technology. It's a call for technology that serves people, not t
 
 **"Bell says they're using a closed-loop cooling system — no water impact."**
 
-> "That's their claim. But closed-loop systems require significantly more energy to operate than water-cooled ones. On a fossil-fuel grid, that means more emissions. And independent experts have raised questions about what 'closed-loop' actually means at this scale. The point is: we don't have independent assessment yet. That's exactly why there should be a pause."
+> "That's their claim. But closed-loop systems use air-cooled heat rejection, which requires significantly more electricity than evaporative cooling to move the same heat. On a fossil-fuel grid, that means more emissions. Bell has minimized the water footprint on a grid where water isn't the binding constraint — and pushed the cost onto the grid, where the binding constraint is carbon. And independent experts have raised questions about what 'closed-loop' actually means at this scale. The point is: we don't have independent assessment yet. That's exactly why there should be a pause."
 
 **"These are big, reputable companies — Bell, CoreWeave, Cerebras."**
 
@@ -95,6 +97,10 @@ This isn't anti-technology. It's a call for technology that serves people, not t
 **"The provincial government supports it."**
 
 > "The provincial government also plans to run coal plants until 2050 — two decades past the federal phase-out deadline. Provincial support doesn't mean it's in the community's interest. That's what the petition is about: making sure the federal government uses its levers to protect communities, regardless of what the province signs off on."
+
+**"Bell says electricity rates won't go up."**
+
+> "That's exactly what Virginia said. Initially, Virginia officials gave the same assurance. Now regulators project residential bills could more than double by 2045 unless data centres pay their full share of grid costs. Dominion has already been granted rate increases. Virginia had to create a dedicated large-load rate class to try to shield households from further cost exposure — after the data centres were built, not before. The time to protect ratepayers is before the concrete is poured."
 
 **"Isn't this an Indigenous-partnered project? Who is the NDP to object?"**
 
