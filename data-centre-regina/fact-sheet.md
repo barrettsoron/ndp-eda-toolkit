@@ -35,7 +35,7 @@ These are the companies Saskatchewan is being asked to reshape its energy grid a
 
 **Governance breakdown.** Four of seven RM of Sherwood council members resigned shortly after the data centre was announced. The province then appointed interim replacements — meaning locally-elected oversight was replaced with provincial appointees at the very moment major decisions about the development were still being made.
 
-**Canadian data in American hands.** CoreWeave and Cerebras are US-incorporated companies. Under American law — including the CLOUD Act — US authorities can compel access to data held by American companies regardless of where the data is physically stored.
+**Canadian data in American hands.** Bell's public page brands the project as "Sovereign AI infrastructure — built by Canadians, for Canada." Sovereignty is a marketing word here. CoreWeave and Cerebras are US-incorporated companies. Under American law — including the CLOUD Act — US authorities can compel access to data held by American companies regardless of where the data is physically stored.
 
 This is not theoretical. In 2025, President Trump sanctioned the International Criminal Court's chief prosecutor and Microsoft cut off his email access. When the French Senate asked Microsoft France under oath whether it could guarantee it would deny US government requests for data stored on its servers within the European Union, the company said it "cannot guarantee" that. As journalist Paris Marx has argued, every data centre operated by a US company is effectively an extension of US jurisdiction — what European lawmakers have called a digital "kill switch." The Canada-United States-Mexico Agreement makes this worse: it contains clauses that limit Canada's ability to regulate cross-border data flows or require companies to store Canadian data within our borders.
 
@@ -43,7 +43,9 @@ This is not theoretical. In 2025, President Trump sanctioned the International C
 
 ## What about water?
 
-Bell claims the facility will use a closed-loop cooling system that doesn't draw municipal water. However, closed-loop systems require significantly more energy than water-cooled alternatives. On a fossil-fuel grid, that energy cost translates directly to more emissions. Independent experts have raised questions about what "closed-loop" actually means at industrial scale, and no independent environmental assessment has been conducted.
+Bell claims the facility will use a closed-loop cooling system that doesn't draw municipal water. That claim is mostly accurate — the air-cooled heat rejection design does not consume water the way evaporatively-cooled facilities do. The trade-off is what Bell doesn't say: air-cooled systems require significantly more *electricity* than evaporative cooling to move the same heat. On a fossil-fuel grid running at 630 g CO₂e per kilowatt-hour, that extra electricity translates directly into extra emissions. Bell has minimized the water footprint on a grid where water isn't the binding constraint, and pushed the cost onto the grid, where the binding constraint is carbon.
+
+Independent experts have raised questions about what "closed-loop" actually means at industrial scale, and no independent environmental assessment has been conducted.
 
 For context: globally, data centre water consumption is projected to rise from 560 billion litres per year to 1,200 billion litres by 2030, according to the International Energy Agency. A single Microsoft data centre in Vaughan, Ontario is expected to consume 730 million litres annually.
 

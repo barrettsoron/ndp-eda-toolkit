@@ -23,6 +23,7 @@ DOCS = [
     "canvass-guide.md",
     "fact-sheet.md",
     "tenant-explainer.md",
+    "bell-response.md",
     "social-copy.md",
     "chapter-email.md",
     "indigenous-consultation-questions.md",
@@ -120,7 +121,8 @@ COVER_HTML = """\
     for Regina&ndash;Wascana NDP, April 2026.</p>
 
     <p><strong>Contents:</strong> petition print sheet &middot; canvasser guide &middot;
-    fact sheet &middot; tenant explainer (CoreWeave &amp; Cerebras) &middot; social copy
+    fact sheet &middot; tenant explainer (CoreWeave &amp; Cerebras) &middot;
+    Bell AI Fabric page rebuttal &middot; social copy
     &middot; chapter email &middot; Indigenous consultation questions</p>
   </div>
 
