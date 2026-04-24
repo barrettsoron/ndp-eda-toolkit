@@ -6,19 +6,17 @@
 
 ---
 
-## Reactive — April 15 (use now, while the news is fresh)
+## Reactive — post-vote (April 16 and after)
+
+On April 16, the Liberal majority voted Motion M-30 down. Use these now.
 
 **Short (Twitter / X):**
-Today the Liberals blocked the NDP's motion to ban surveillance pricing. One objection. That's all it takes. The petition is still open — and every signature builds the case: ndp.ca/ban-surveillance-pricing
+Liberals voted down the NDP's ban on surveillance pricing. The Competition Bureau has already found 60+ companies in Canada using algorithmic pricing tools — and recommended no action. The petition is still the pressure. ndp.ca/ban-surveillance-pricing
 
 **Medium (Facebook / Instagram):**
-Today in the House of Commons, NDP Parliamentary Leader Don Davies asked MPs to agree — by unanimous consent — to ban surveillance pricing. The Liberals said no.
+On April 16, the Liberal majority voted down Motion M-30 — the NDP's call to ban surveillance pricing. Their answer: the Competition Bureau is studying it. That same bureau found more than 60 companies in Canada already using algorithmic pricing tools — and recommended no action. Sobeys is completing its digital shelf label rollout across Canada this month. UFCW Canada — 250,000 grocery and retail workers — backed the ban. The Liberals said no.
 
-Their answer: they're "looking into it" through the Competition Bureau. That's not a ban. That's a delay.
-
-Motion M-30, tabled by MP Leah Gazan, is still in the queue — but it may wait months before it comes to a vote. The petition is how we keep the pressure on in the meantime. Every signature is a piece of the public record that makes inaction harder to justify.
-
-Sign: ndp.ca/ban-surveillance-pricing — and share this so others can too.
+The petition builds the public record. Every name makes inaction harder to justify. Sign and share: ndp.ca/ban-surveillance-pricing
 
 ---
 
@@ -32,6 +30,12 @@ Your loyalty card is a surveillance tool. The points you earn are worth cents. T
 
 **Option C — concrete:**
 Search for a thermometer when your kid is sick at 2am. The algorithm sees your panic and prices accordingly. That's surveillance pricing. The NDP wants to ban it. ndp.ca/ban-surveillance-pricing
+
+**Option D — Consumer Reports numbers:**
+400 shoppers. Identical grocery baskets. Three-quarters of the items priced differently. The same basket: $114 for one shopper, $124 for another. That gap adds up to $1,200 a year. Ban it. ndp.ca/ban-surveillance-pricing
+
+**Option E — Sobeys ESL:**
+Sobeys is completing its digital shelf label rollout across Canada this month — prices adjustable from a phone, dozens of times a day. The NDP wants to ban using your personal data to set those prices. Liberals voted it down. Sign: ndp.ca/ban-surveillance-pricing
 
 ---
 
@@ -57,6 +61,12 @@ Surveillance pricing uses that data to charge you more than someone with a diffe
 
 The NDP wants to ban it. Add your name → ndp.ca/ban-surveillance-pricing
 
+**Option C — Ford contrast (use after April 16 vote):**
+
+UFCW Canada — 250,000 grocery and retail workers — backed the NDP's motion to ban surveillance pricing. Doug Ford backed the grocery chains. His words: "That's a capitalist society, a market." Groceries are up $1,000 this year for a family of four, and Ford knows it. He chose the corporations anyway.
+
+The petition is still open. ndp.ca/ban-surveillance-pricing
+
 ---
 
 ## Longer (Facebook thread or page post — 300–400 words)
@@ -81,7 +91,7 @@ Your loyalty card points are worth cents. The data you hand over is worth far mo
 
 There's another wrinkle: when multiple grocery chains use the same third-party pricing software, they can effectively fix prices without ever talking to each other. The algorithm does the coordination. You can't opt out by switching stores.
 
-Canada's Competition Bureau ran a formal public consultation on this in 2025. The majority of individual respondents called for regulation or outright banning. Manitoba's NDP government has already introduced a provincial bill. Now we need federal action.
+Canada's Competition Bureau ran a formal public consultation in 2025 and found more than 60 companies in Canada already using algorithmic pricing tools — including vendors contracted to the country's largest grocery chains. The majority of individual respondents called for regulation or outright banning. The bureau recommended no action. Manitoba's NDP government has already introduced a provincial bill. Ontario Liberals have a private member's bill in the queue. UFCW Canada — 250,000 grocery and retail workers — backs a federal ban. Now we need federal action.
 
 Avi Lewis and the NDP are calling on the federal government to ban surveillance pricing — in-store and online. We think the price you pay should reflect the market, not your data profile.
 

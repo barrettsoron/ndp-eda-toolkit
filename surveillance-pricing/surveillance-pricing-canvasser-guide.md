@@ -1,7 +1,7 @@
 # Canvasser Guide: Surveillance Pricing Petition
 
 **Vancouver Centre NDP | For volunteer use**
-*Data and sources reviewed and verified as of April 15, 2026. Check parliamentary status of Motion M-30 closer to use.*
+*Data and sources reviewed and verified as of April 24, 2026.*
 
 ---
 
@@ -15,10 +15,10 @@ Use "unfair and downright creepy" if it feels right. It usually does.
 
 ## What's happening in Parliament (if they ask)
 
-- **April 13:** MP Leah Gazan tabled Motion M-30, calling on the federal government to ban surveillance pricing.
+- **April 13:** MP Leah Gazan (Winnipeg Centre) tabled Motion M-30, calling on the federal government to ban surveillance pricing.
 - **April 15:** NDP Parliamentary Leader Don Davies asked the House to agree by unanimous consent — the Liberals blocked it.
-- **Liberal response:** They say they're "looking into it" via the Competition Bureau. That's a review process, not a ban, and not binding.
-- **What's next:** M-30 is in the parliamentary queue but may wait months before it comes to a vote. That's exactly why this petition matters — it builds the public record that makes inaction politically costly.
+- **April 16:** M-30 came to a vote. The Liberal majority defeated it.
+- **Where things stand:** The Liberals' position is that the Competition Bureau is "studying it." That same bureau found more than 60 companies in Canada already using algorithmic pricing tools — and declined to recommend action. A study is not a ban. A federal ban remains NDP policy.
 
 **Note on this petition:** This is an advocacy petition, not yet an official parliamentary petition. Official parliamentary petitions have specific formatting requirements and must be certified and tabled by an MP. This one is a public pressure tool — but the signatures, names, and postal codes we're collecting are exactly what an official petition needs. Think of it as building toward one.
 
@@ -30,7 +30,7 @@ When you shop online — or use your loyalty card in-store — the retailer coll
 
 **Online** — two people looking at the same product on the same site can see two different prices. That's the clearest version of this.
 
-**In-store** — the shelf price is the ceiling, and the algorithm decides who gets relief from it. Shoppers without the app pay that ceiling every time. Shoppers who are loyal and predictable get *worse* targeted offers, not better — retention discounts go to customers who might leave. Shoppers the algorithm has flagged as necessity buyers — diapers, medicine, formula — see the price walked up over time. And the shelf tags themselves are going digital: Loblaws, Sobeys, and Walmart Canada are rolling out electronic shelf labels retailers can update remotely, many times a day.
+**In-store** — the shelf price is the ceiling, and the algorithm decides who gets relief from it. Shoppers without the app pay that ceiling every time. Shoppers who are loyal and predictable get *worse* targeted offers, not better — retention discounts go to customers who might leave. Shoppers the algorithm has flagged as necessity buyers — diapers, medicine, formula — see the price walked up over time. And the shelf tags themselves are going digital: Loblaws, Sobeys, and Walmart Canada are rolling out electronic shelf labels retailers can update remotely, many times a day. Sobeys is completing its Canadian rollout this month.
 
 Two people buying the same box of cereal can pay different amounts, and neither of them knows it. It's already spreading into groceries, rental housing, ride-sharing, concert tickets, utilities, and pharmaceuticals.
 
@@ -45,6 +45,8 @@ Two people buying the same box of cereal can pay different amounts, and neither 
 **New parents:** "Buy diapers from the same retailer twice and the algorithm knows you'll be back. It starts walking the price up, because it's learned you don't have a choice."
 
 **Loyalty card:** "Every time you scan your points card, you're giving the store a detailed map of your habits and needs. The points are worth cents. The data is worth a lot more — to them."
+
+**The proof is in the numbers:** "A September 2025 *Consumer Reports* investigation sent 400 volunteer shoppers to buy identical Instacart baskets. Three-quarters of the products were offered at different prices. The same basket cost anywhere from $114 to $124 — a gap that adds up to $1,200 a year, on top of food bills already running $17,500 for a Canadian family of four. Instacart's AI pricing vendor was called Eversight. They dropped it quietly in December 2025, after the study ran."
 
 ---
 
@@ -64,7 +66,7 @@ Two people buying the same box of cereal can pay different amounts, and neither 
 
 **"But isn't the government already looking at it?"**
 
-> "The Liberals said they're 'looking into it' through the Competition Bureau. That's not a ban — that's a study. The NDP asked for unanimous consent to act immediately, on April 15. The Liberals said no. A review doesn't stop the practice while it's being reviewed."
+> "The Competition Bureau is already on the record: more than 60 companies in Canada are using algorithmic pricing tools right now. The bureau found that in January 2026 — and declined to recommend action. The Liberals voted down the NDP's motion to ban it on April 16. A study doesn't stop the practice while it's being conducted."
 
 **"I don't have anything to hide."**
 
@@ -88,11 +90,23 @@ Two people buying the same box of cereal can pay different amounts, and neither 
 
 ---
 
+## Who's standing where
+
+Useful context for canvassers — especially if someone asks "is anyone else on this?"
+
+- **Manitoba NDP:** Bill 49 — first Canadian jurisdiction to require algorithmic pricing disclosure, in-store and online. Already introduced.
+- **Ontario NDP:** Marit Stiles tabled a motion calling for a ban — defeated at Queen's Park.
+- **Ontario Liberals:** Interim leader John Fraser introduced a private member's bill to ban "personalized algorithmic pricing" — awaiting second reading. Cross-party momentum.
+- **UFCW Canada:** 250,000 grocery, restaurant, and retail workers backing the federal ban.
+- **Federal Liberals:** Voted M-30 down April 16. Currently "studying it."
+- **Doug Ford (April 16):** Sided with the grocery chains. His position: banning surveillance pricing is "crazy socialism" — while acknowledging prices are "through the roof." Ford knows prices are wrong. He chose the corporations anyway.
+
+---
+
 ## Notes
 
 - This is a **party** action — Vancouver Centre NDP, not the Avi Lewis campaign. Keep branding party-level.
 - The petition asks the **federal government** to act — relevant jurisdiction.
-- Manitoba NDP has already introduced a provincial bill — good "it works" precedent if someone asks.
 
 ---
 
