@@ -2,10 +2,13 @@
 Builds data-centre-regina/data-centre-package.pdf — full shareable asset package.
 
 Page order:
-  1    Cover page (attribution, licence, disclaimer)
-  2–3  Petition print sheet (2-up, letter)
-  4+   Supporting docs: canvass guide, fact sheet, tenant explainer,
-       social copy, chapter email, Indigenous consultation questions
+  1      Cover page (attribution, licence, disclaimer)
+  2      Section divider: Petition Print Sheet
+  3–4    Petition print sheet (2-up, letter)
+  5+     Section dividers + supporting docs:
+           canvass guide · fact sheet · tenant explainer ·
+           Bell page rebuttal · social copy · chapter email ·
+           Indigenous consultation questions
 """
 
 import os
@@ -20,13 +23,41 @@ ROOT   = os.path.dirname(__file__)
 MODULE = os.path.join(ROOT, "data-centre-regina")
 
 DOCS = [
-    "canvass-guide.md",
-    "fact-sheet.md",
-    "tenant-explainer.md",
-    "bell-response.md",
-    "social-copy.md",
-    "chapter-email.md",
-    "indigenous-consultation-questions.md",
+    (
+        "canvass-guide.md",
+        "Canvasser Guide",
+        "For volunteers at the door or table",
+    ),
+    (
+        "fact-sheet.md",
+        "Fact Sheet",
+        "Shareable one-pager for anyone who wants the core facts",
+    ),
+    (
+        "tenant-explainer.md",
+        "Tenant Explainer: CoreWeave &amp; Cerebras",
+        "Background on who Bell is building this for — for organizers and researchers",
+    ),
+    (
+        "bell-response.md",
+        "Bell AI Fabric Page Rebuttal",
+        "Claim-by-claim response to Bell&rsquo;s public marketing page — for organizers",
+    ),
+    (
+        "social-copy.md",
+        "Social Media Copy",
+        "Ready-to-post copy in short, medium, and long formats — for chapter leads and digital volunteers",
+    ),
+    (
+        "chapter-email.md",
+        "Chapter Email",
+        "Template announcement email — for chapter leads to send to members",
+    ),
+    (
+        "indigenous-consultation-questions.md",
+        "Indigenous Consultation Questions",
+        "Conversation-starters for First Nations community members and Indigenous organizers",
+    ),
 ]
 
 CSS_STYLE = CSS(string="""
@@ -231,6 +262,94 @@ COVER_CSS = CSS(string="""
 """)
 
 
+DIVIDER_CSS = CSS(string="""
+    @page {
+        margin: 0;
+        size: letter;
+    }
+
+    body {
+        font-family: Helvetica, Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    .band {
+        background: #F58220;
+        padding: 56pt 44pt 48pt 44pt;
+    }
+
+    .section-label {
+        font-size: 8pt;
+        font-weight: bold;
+        letter-spacing: 0.14em;
+        color: rgba(255,255,255,0.75);
+        text-transform: uppercase;
+        margin-bottom: 14pt;
+    }
+
+    .title {
+        font-size: 26pt;
+        font-weight: bold;
+        color: white;
+        line-height: 1.2;
+    }
+
+    .body {
+        padding: 32pt 44pt 0 44pt;
+    }
+
+    .for-label {
+        font-size: 8pt;
+        font-weight: bold;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: #F58220;
+        margin-bottom: 6pt;
+    }
+
+    .audience {
+        font-size: 12pt;
+        color: #58595B;
+        line-height: 1.5;
+    }
+
+    .divider-footer {
+        position: fixed;
+        bottom: 20pt;
+        left: 44pt;
+        right: 44pt;
+        font-size: 7.5pt;
+        color: #bbb;
+        border-top: 0.5pt solid #ddd;
+        padding-top: 7pt;
+    }
+""")
+
+
+def make_divider(title, audience, out_path):
+    html = f"""\
+<!DOCTYPE html>
+<html>
+<body>
+  <div class="band">
+    <div class="section-label">Regina&ndash;Wascana NDP &mdash; Data Centre Campaign</div>
+    <div class="title">{title}</div>
+  </div>
+  <div class="body">
+    <div class="for-label">For</div>
+    <div class="audience">{audience}</div>
+  </div>
+  <div class="divider-footer">
+    Pause Bell&rsquo;s 300&nbsp;MW AI Data Centre &nbsp;&middot;&nbsp;
+    CIA Money. MAGA Investors. Our Grid, Our Choice. &nbsp;&middot;&nbsp;
+    Treaty&nbsp;4 territory &nbsp;&middot;&nbsp; April 2026
+  </div>
+</body>
+</html>"""
+    HTML(string=html).write_pdf(out_path, stylesheets=[DIVIDER_CSS])
+
+
 def make_cover(out_path):
     HTML(string=COVER_HTML).write_pdf(out_path, stylesheets=[COVER_CSS])
 
@@ -269,8 +388,22 @@ def main():
         make_cover(cover_pdf)
         parts.append(cover_pdf)
 
+        petition_divider = os.path.join(tmp, "divider-petition.pdf")
+        print("  rendering divider: Petition Print Sheet…")
+        make_divider(
+            "Petition Print Sheet",
+            "Print double-sided, cut along the dashed line, and collect signatures",
+            petition_divider,
+        )
+        parts.append(petition_divider)
         parts.append(petition_pdf)
-        for filename in DOCS:
+
+        for i, (filename, title, audience) in enumerate(DOCS):
+            divider_path = os.path.join(tmp, f"divider-{i:02d}.pdf")
+            print(f"  rendering divider: {title}…")
+            make_divider(title, audience, divider_path)
+            parts.append(divider_path)
+
             md_path  = os.path.join(MODULE, filename)
             out_path = os.path.join(tmp, filename.replace(".md", ".pdf"))
             print(f"  rendering {filename}…")
