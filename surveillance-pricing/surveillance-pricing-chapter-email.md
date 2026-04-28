@@ -10,7 +10,7 @@ Hi [Name],
 
 You may have seen Avi Lewis's press conference earlier this week on surveillance pricing — the practice of corporations using your personal data to figure out the maximum price you'll pay, and then charging you that.
 
-It's a strong issue — and it moved fast this week. On April 13, MP Leah Gazan tabled Motion M-30. On April 15, Don Davies asked the House to act by unanimous consent. The Liberals blocked it, saying they're "looking into it" through the Competition Bureau. That's not a ban. M-30 is in the queue but may not come to a vote for months. That's exactly why EDA-level organizing matters right now.
+It's a strong issue — and the parliamentary timeline has moved. On April 13, MP Leah Gazan tabled Motion M-30. On April 15, Don Davies asked for unanimous consent — the Liberals blocked it. On April 16, M-30 came to a full vote and the Liberal majority defeated it. The Liberals' position: the Competition Bureau is studying it. That same bureau found more than 60 companies in Canada already using algorithmic pricing tools — and declined to recommend action. A federal ban remains NDP policy. That's exactly why EDA-level organizing matters: the petition is the ongoing public pressure tool, and it's the groundwork for an official parliamentary petition an MP can table in the House.
 
 The federal NDP has an active petition at ndp.ca/ban-surveillance-pricing, and we've put together a package of assets that any EDA or adjacent organization can use independently — no coordination required, no permission needed.
 
@@ -23,7 +23,7 @@ The federal NDP has an active petition at ndp.ca/ban-surveillance-pricing, and w
 
 **Why this issue, why now:**
 
-Surveillance pricing hits hardest at people who can least afford it — low-income shoppers with predictable routines, parents of young kids, people in urgent situations like illness or bereavement. The Competition Bureau has already run a formal public consultation on it. Manitoba's NDP government has introduced a provincial bill. We need federal action, and this is a good moment to be collecting names and building visibility.
+Surveillance pricing hits hardest at people who can least afford it — low-income shoppers with predictable routines, parents of young kids, people in urgent situations like illness or bereavement. The Competition Bureau found more than 60 companies in Canada already using algorithmic pricing tools; a September 2025 *Consumer Reports* investigation found identical grocery baskets ranging $114 to $124 for the same items — a gap that adds up to $1,200 a year. Manitoba's NDP government has introduced a provincial bill. Ontario Liberals have a private member's bill in the queue. UFCW Canada — 250,000 grocery and retail workers — backs a federal ban. Sobeys is completing its digital shelf label rollout across Canada this month. The motion was voted down, but the organizing window is open and the issue is live.
 
 The assets are framed as party materials — Vancouver Centre NDP, not campaign. Swap in your own EDA name if you prefer.
 
