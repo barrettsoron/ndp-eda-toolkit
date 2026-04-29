@@ -53,6 +53,32 @@ Assets for the community campaign to pause Bell Canada's 300 MW AI data centre i
 
 **Physical signatures only** for now. See the module README for e-petition guidance.
 
+### [`canada-strong-fund/`](canada-strong-fund/)
+
+Assets for the campaign to fix the Canada Strong Fund — PM Mark Carney's $25-billion arm's-length Crown corporation, announced 2026-04-27.
+
+**The Canada Strong Fund** is being marketed as Canada's first sovereign wealth fund. Its written mandate has no climate conditions, no UNDRIP/FPIC requirements, and no union-content rules — and it's seeded with $25-billion of public money to take minority equity stakes in private projects, alongside Bay Street pension funds and global asset managers. The "Pull a Norway" framing — Avi Lewis's response to the Spring Economic Statement — is the spine of the module: industry profits in, public good out.
+
+| File | Description |
+|------|-------------|
+| `petition.md` | Petition copy — two demands: reject asset recycling; fund through a windfall profits tax on oil and gas |
+| `make-petition.py` | Script to regenerate the petition PDF |
+| `csf-organizing-kit.md` | Strategic frame, six-message stack, five demands, one-pager, tactical notes — the load-bearing source document |
+| `talking-points.md` | Master message stack referenced by every tactic-specific guide |
+| `canvass-guide.md` | Summer street canvassing and tabling |
+| `small-group-guide.md` | Kitchen-table / living-room facilitation |
+| `letters-to-editor.md` | LTE templates by angle and target outlet |
+| `mp-letters.md` | MP letter templates — primary template addresses Hedy Fry (LPC, Vancouver Centre); especially LPC MPs |
+| `social-copy.md` | Short, medium, and long format social posts |
+| `chapter-email.md` | EDA member outreach |
+| `fact-sheet.md` | One-page leave-behind |
+| `signals-to-watch.md` | Diagnostic checklist for tracking the fund's design as it's finalised |
+| `targets.md` | Institutional and constituency targets |
+| `counter-proposal-canada-public-wealth-fund.md` | Inverted-design counter-proposal |
+| `README.md` | Overview, scope, branding, sources |
+
+**National policy fight, riding-level tactics.** Most files are stubs pending content extraction from the organizing kit and research note.
+
 ---
 
 ## Adapting for Your EDA
