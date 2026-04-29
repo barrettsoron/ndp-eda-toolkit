@@ -91,4 +91,4 @@ The research note (`csf-derisking-machine-research.md`, gitignored) contains the
 
 ---
 
-*Prepared by Barrett Soron for Vancouver Centre NDP and the broader federal NDP riding-association network | April 2026*
+*Prepared by Barrett Soron for Vancouver Centre NDP and the broader federal NDP riding-association network | May 2026*

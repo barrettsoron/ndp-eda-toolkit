@@ -22,7 +22,7 @@ TOP_PAD    = 18
 LABEL_SIZE = 7.0
 LINE_H     = 20
 SIG_LINE_H = 28
-FIELD_GAP  = 2
+FIELD_GAP  = 1
 SECT_GAP   = BASE
 SPLIT_RATIO = (0.62, 0.34)
 
@@ -78,24 +78,24 @@ def draw_form(c, top_y):
                 width=logo_w, height=logo_h, mask='auto')
 
     c.setFillColor(white)
-    c.setFont('Helvetica-Bold', 13)
-    c.drawString(MARGIN + BASE, bar_y + 27, 'PULL A NORWAY')
+    c.setFont('Helvetica-Bold', 11)
+    c.drawString(MARGIN + BASE, bar_y + 27, 'PULL A NORWAY: TAX THE WINDFALL OIL AND GAS PROFITS')
 
     c.setFont('Helvetica', 6)
     c.drawString(MARGIN + BASE, bar_y + 13,
-        'Tax the oil profits. Stop the asset sell-off. '
-        'Fund the Canada Strong Fund the right way.')
+        "Vancouver Centre NDP │ For a real people's wealth fund │ May 2026")
 
     # ── Summary ──────────────────────────────────────────────────────────────
-    y = bar_y - SECT_GAP
+    y = bar_y - SECT_GAP - 6
     c.setFont('Helvetica', 9)
     c.setFillColor(DARK)
     summary = (
         'On April 27, 2026, the federal government announced the Canada Strong Fund — '
-        'a $25-billion Crown corporation that will take minority equity stakes in private projects '
-        'alongside Bay Street pension funds and global asset managers. Its written mandate carries '
-        'no climate conditions, no FPIC requirements, and no union-content rules. We are calling '
-        'on the federal government to fund it the right way.'
+        'a $25-billion Crown corporation that takes minority equity stakes in private projects '
+        'alongside Bay Street pension funds and global asset managers. Its written mandate has '
+        'no climate requirements and no protections for Indigenous rights. '
+        'We are calling on the federal government to fund it the right way: '
+        'tax the windfall profits, not taxpayers.'
     )
     for ln in wrap(c, summary, 'Helvetica', 9, INNER_W):
         c.drawString(MARGIN, y, ln)
@@ -104,11 +104,9 @@ def draw_form(c, top_y):
     # ── Petition statement — indented block with left orange rule ─────────────
     y -= SECT_GAP
     stmt = (
-        '“I call on the federal government to fund the Canada Strong Fund through a windfall '
-        'profits tax on oil and gas — not $25 billion in taxpayer cash — and to reject '
-        'asset recycling of Trans Mountain, port lands, and other public infrastructure. '
-        'Public money in, private profits out is not how a sovereign wealth fund works. '
-        'Pull a Norway.”'
+        '”I call on Parliament to fund the Canada Strong Fund through a windfall profits tax '
+        'on oil and gas — not $25 billion in taxpayer cash — and to stop any sell-off of '
+        'public assets like Trans Mountain, federal port lands, or Crown real estate.”'
     )
     rule_x    = MARGIN + BASE
     text_x    = rule_x + BASE
@@ -129,7 +127,7 @@ def draw_form(c, top_y):
         y -= 11
 
     # ── Fields ───────────────────────────────────────────────────────────────
-    y -= SECT_GAP
+    y -= SECT_GAP - 6
 
     y = draw_field(c, MARGIN, y, 'Full Name', INNER_W) - FIELD_GAP
 
@@ -157,7 +155,7 @@ def draw_form(c, top_y):
         'shared with riding associations; never sold. Opt out: dnc@ndp.ca │ ndp.ca/privacy')
     c.setFont('Helvetica', 6.5)
     c.drawString(MARGIN, footer_y + 9,
-        'Return signed forms to your chapter lead or any riding association event.')
+        'Return signed forms to your chapter lead or any Vancouver Centre NDP event.')
 
 
 def draw_cut_line(c):

@@ -1,14 +1,14 @@
-# Pull a Norway: Fund the Canada Strong Fund the Right Way
+# Pull a Norway: Tax the Windfall Oil and Gas Profits
 
 *Public money in, private profits out — that's not how a sovereign wealth fund works.*
 
-**[EDA name] | Physical signature collection**
+**Vancouver Centre NDP | Physical signature collection**
 
 ---
 
 ## Petition Statement
 
-We, the undersigned residents of [EDA name] and surrounding communities, call on the federal government to:
+We, the undersigned residents of Vancouver Centre NDP and surrounding communities, call on the federal government to:
 
 **1. Reject asset recycling as a path to capitalize the Canada Strong Fund.** Do not sell off Trans Mountain Corporation, federally-owned port lands, the public stake in Hibernia, Crown real estate, or any other public asset to fund minority equity stakes in private projects. Public assets stay public.
 
@@ -48,8 +48,8 @@ A real people's fund taxes the rents flowing to the wealthiest corporations and 
 
 *Information collected under the federal NDP Privacy Policy. May be used to contact you about NDP activities; shared with riding associations; never sold. Opt out: dnc@ndp.ca | ndp.ca/privacy*
 
-*Return signed forms to your local NDP chapter lead or any [EDA name] event.*
+*Return signed forms to your local NDP chapter lead or any Vancouver Centre NDP event.*
 
 ---
 
-*[EDA name] | April 2026*
+*Vancouver Centre NDP | May 2026*
