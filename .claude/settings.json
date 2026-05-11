@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": ["barrettsoron/barrett-claude-tools"],
+  "enabledPlugins": [
+    "style-guide@sword-fern",
+    "sword-fern-coding@sword-fern",
+    "decision-records@sword-fern"
+  ]
+}
