@@ -17,6 +17,7 @@ The downtown site at 150 West Georgia / 720 Beatty St — the largest of the thr
 | `fact-sheet.md` | One-page backgrounder / leave-behind on the TELUS cluster |
 | `social-copy.md` | Social media copy — short (Twitter/X), medium, and long (Facebook/Instagram) |
 | `chapter-email.md` | Email to members announcing the petition drive |
+| `autoresponder.md` | Confirmation email sent after a petition signature — share + donate asks |
 | `tenant-explainer.md` | Backgrounder on TELUS, Westbank Corp., the federal *Sovereign AI* program, and the absence of disclosed anchor tenants |
 | `proponent-response.md` | Claim-by-claim rebuttal of TELUS's public-facing project framing (sovereignty, water, energy, jobs) |
 | `indigenous-consultation-questions.md` | Conversation-starters for the local organizer to bring to xʷməθkʷəy̓əm, Skwxwú7mesh, and səlilwətaɬ contacts |
