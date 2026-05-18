@@ -27,7 +27,7 @@ The Canadian-incorporation point is load-bearing. If TELUS itself were the AI co
 
 ## Westbank Corp. — the developer
 
-Westbank is a privately held Vancouver real estate developer founded by Ian Gillespie in 1992. Its portfolio includes Vancouver House, Telus Garden, the Oakridge Park redevelopment, and Mirvish Village in Toronto. Westbank is the developer partner on both proposed Vancouver sites: the Mount Pleasant repurposing of the M3 office building (111 East 5th Ave) and the proposed new downtown facility at 150 West Georgia / 720 Beatty St beside BC Place. As of May 18, 2026, no formal rezoning application for the downtown data centre use has been reported as submitted to the City.
+Westbank is a privately held Vancouver real estate developer founded by Ian Gillespie in 1992. Its portfolio includes Vancouver House, Telus Garden, the Oakridge Park redevelopment, and Mirvish Village in Toronto. Westbank is the developer partner on both proposed Vancouver sites: the Mount Pleasant office conversion of the M3 building (111 East 5th Ave) and the proposed new downtown facility at 150 West Georgia / 720 Beatty St beside BC Place. As of May 18, 2026, no formal rezoning application for the downtown data centre use has been reported as submitted to the City.
 
 The downtown facility is integrated with the **Creative Energy** district-energy system, which operates the steam-loop network that heats more than 200 buildings on the downtown peninsula. The data centre is planned to sit atop an expanded and replaced steam plant being built below-grade on the same parcel; the heat-rejection design appears to envisage some integration with the district-energy system, though specifics have not been published.
 

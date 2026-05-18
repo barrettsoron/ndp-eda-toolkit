@@ -15,7 +15,7 @@
 
 ## What they want to build (if they ask)
 
-*[Adapt from `fact-sheet.md`. TELUS + Westbank, three sites: 100 MW downtown at 150 W Georgia / 720 Beatty (beside BC Place), Mount Pleasant repurposing at 111 East 5th Ave, Kamloops expansion. 60,000+ Nvidia GPUs, 150+ MW total by 2032. Federal program: Enabling Large-Scale Sovereign AI Data Centres (ISED). No anchor tenants disclosed.]*
+*[Adapt from `fact-sheet.md`. TELUS + Westbank, three sites: 100 MW downtown at 150 W Georgia / 720 Beatty (beside BC Place), Mount Pleasant office conversion at 111 East 5th Ave, Kamloops expansion. 60,000+ Nvidia GPUs, 150+ MW total by 2032. Federal program: Enabling Large-Scale Sovereign AI Data Centres (ISED). No anchor tenants disclosed.]*
 
 ---
 

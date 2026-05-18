@@ -6,7 +6,7 @@
 
 ## Summary
 
-TELUS and Westbank — the Vancouver development firm founded and led by billionaire Ian Gillespie — want to build two AI data centres in Vancouver: 100 megawatts beside BC Place at 150 West Georgia downtown, and a repurposed facility at 111 East 5th Avenue in Mount Pleasant. The AI companies that will actually rent the compute have not been publicly named. Of the announced $9 billion in economic activity, a substantial share is GPU procurement from NVIDIA in California — chips, not local capital. The province is currently importing dirty electricity. Metro Vancouver is in continuing drought. We are calling on the federal government to pause this build until our communities have a say.
+TELUS and Westbank — the Vancouver development firm founded and led by billionaire Ian Gillespie — want to build two AI data centres in Vancouver: a 100-megawatt facility downtown beside BC Place, and an office conversion in Mount Pleasant. The AI companies that will actually rent the compute have not been publicly named. Of the announced $9 billion in economic activity, a substantial share is GPU procurement from NVIDIA in California — chips, not local capital. The province is currently importing dirty electricity. Metro Vancouver is in continuing drought. We are calling on the federal government to pause this build until our communities have a say.
 
 ---
 

@@ -22,7 +22,7 @@ TOP_PAD    = 18
 LABEL_SIZE = 7.0
 LINE_H     = 20
 SIG_LINE_H = 22
-FIELD_GAP  = 2
+FIELD_GAP  = 1
 SECT_GAP   = BASE
 SPLIT_RATIO = (0.62, 0.34)
 
@@ -91,15 +91,14 @@ def draw_form(c, top_y):
         'Vancouver Centre NDP │ Unceded Musqueam, Squamish, and Tsleil-Waututh territory')
 
     # -- Summary -------------------------------------------------------------
-    y = bar_y - SECT_GAP
+    y = bar_y - SECT_GAP - 6  # extra breathing room below the orange bar
     c.setFont('Helvetica', 8.5)
     c.setFillColor(DARK)
     summary = (
-        'TELUS and Westbank — billionaire Ian Gillespie’s Vancouver development firm — want to'
-        ' build two AI data centres in Vancouver: 100 MW at 150 West Georgia downtown, and a'
-        ' repurposed facility at 111 East 5th Avenue in Mount Pleasant. The AI tenants have not'
-        ' been named. Billions of dollars in NVIDIA GPU procurement will leave Canada. BC is'
-        ' importing dirty power, and Metro Vancouver is in drought.'
+        'TELUS and Westbank — billionaire Ian Gillespie’s firm — want to build two AI data'
+        ' centres in Vancouver: 100 MW downtown beside BC Place, and a Mount Pleasant'
+        ' office conversion. Tenants unnamed. Billions in NVIDIA chips leave Canada.'
+        ' BC imports dirty power; Vancouver is in drought.'
     )
     for ln in wrap(c, summary, 'Helvetica', 8.5, INNER_W):
         c.drawString(MARGIN, y, ln)
@@ -134,8 +133,6 @@ def draw_form(c, top_y):
         y -= 11
 
     # -- Fields --------------------------------------------------------------
-    y -= SECT_GAP // 2
-
     y = draw_field(c, MARGIN, y, 'Full Name', INNER_W) - FIELD_GAP
 
     addr_b = draw_field(c, MARGIN, y, 'Street Address', col_a)

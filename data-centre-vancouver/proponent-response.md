@@ -38,7 +38,7 @@ Adding 150 MW of compute load also competes directly with the electrification BC
 **Response.** Closed-loop cooling does substantially reduce water consumption versus evaporative cooling — the technology is real. Three caveats:
 
 1. **Targeted ≠ verified.** The 90% figure is a design target, not a measured outcome. Independent verification post-commissioning matters.
-2. **One site of three.** The Mount Pleasant repurposing and the Kamloops expansion have not been described in the same cooling-architecture detail. Cluster-wide water consumption cannot be calculated from one site's headline number.
+2. **One site of three.** The Mount Pleasant office conversion and the Kamloops expansion have not been described in the same cooling-architecture detail. Cluster-wide water consumption cannot be calculated from one site's headline number.
 3. **Closed-loop trades water for electricity.** Moving the same heat without evaporation requires more chiller and air-side rejection capacity, which means more electricity. In a grid deficit, that means more imported gas/coal — substituting one environmental cost for another.
 
 Metro Vancouver entered 2026 in continuing drought. The water question is real. The 90% figure addresses part of it for one building.
