@@ -53,6 +53,26 @@ Assets for the community campaign to pause Bell Canada's 300 MW AI data centre i
 
 **Physical signatures only** for now. See the module README for e-petition guidance.
 
+### [`data-centre-vancouver/`](data-centre-vancouver/)
+
+Assets for the community campaign to pause TELUS's proposed three-site, 150-megawatt AI data centre cluster in British Columbia — two proposed new data centres in Vancouver (downtown 150 W Georgia beside BC Place; Mount Pleasant 111 East 5th Ave) and an expansion of an existing TELUS facility in Kamloops — announced 2026-05-13 as the first project approved under the federal *Enabling Large-Scale Sovereign AI Data Centres* program (ISED).
+
+**TELUS and Westbank Corp.** are the proponents. The federal program approved this project before parliamentary committee review and without disclosing anchor tenants or the federal contribution amount. NDP Leader Avi Lewis has called for a pause on new data centre construction. If built as announced, the cluster would draw 150+ MW and run more than 60,000 NVIDIA GPUs by 2032. The downtown 150 W Georgia / 720 Beatty parcel has a 2020 Council rezoning for an office tower (now stalled); the current data centre proposal is a different building program and **no formal rezoning application for the data centre use has been reported as submitted to the City as of May 18, 2026**.
+
+| File | Description |
+|------|-------------|
+| `petition.md` | Petition copy — physical signature format, NDP privacy footer |
+| `canvass-guide.md` | Door-to-door, transit-stop and table talking points, objection handling, data custody |
+| `fact-sheet.md` | One-page backgrounder / leave-behind on the TELUS BC cluster |
+| `tenant-explainer.md` | Backgrounder on TELUS, Westbank, the federal *Sovereign AI* program, and the absence of disclosed anchor tenants |
+| `proponent-response.md` | Claim-by-claim rebuttal of TELUS's public framing (sovereignty, water, energy, jobs) |
+| `social-copy.md` | Social media copy — short (Twitter/X), medium, and long (Facebook/Instagram) |
+| `chapter-email.md` | Member email announcing the petition drive |
+| `indigenous-consultation-questions.md` | Conversation-starters for the local organizer to bring to xʷməθkʷəy̓əm, Skwxwú7mesh, and səlilwətaɬ contacts |
+| `README.md` | Overview, e-petition note, data custody, sources |
+
+**Physical signatures only** for now. See the module README for e-petition guidance and Vancouver East / Kamloops EDA coordination notes.
+
 ### [`canada-strong-fund/`](canada-strong-fund/)
 
 Assets for the campaign to fix the Canada Strong Fund — PM Mark Carney's $25-billion arm's-length Crown corporation, announced 2026-04-27.
