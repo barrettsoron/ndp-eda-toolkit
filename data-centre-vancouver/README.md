@@ -64,6 +64,7 @@ The Vancouver Centre NDP electoral district association has custody of all data 
 - Sovereign AI cluster discussion: [National Observer — BC's new data centre cluster sparks new discussion of sovereign AI push](https://www.nationalobserver.com/2026/05/13/news/bcs-new-data-centre-cluster-sparks-new-discussion-sovereign-ai-push)
 - Water concerns: [CTV News Vancouver — Metro Vancouver is running out of water: skepticism surrounding new AI data centres](https://www.ctvnews.ca/vancouver/article/metro-vancouver-is-running-out-of-water-skepticism-surrounding-new-ai-data-centres/)
 - Local opposition (Avi Lewis, Sean Orr, EarthJustice): [Daily Hive — Vancouver AI data centre proposal opposition](https://dailyhive.com/vancouver/vancouver-ai-data-centre-proposal-opposition)
+- May 23 protest march (~750 people) and TELUS May 25 operational response (Emily Lowan, Solomon Yi-Kieran, Torin LaRocque; 300 ML water, 80% efficient, 150,000-homes heat capture, June 27 second march): [Daily Hive — Huge protest against Vancouver AI data centres sparks response from TELUS](https://dailyhive.com/vancouver/vancouver-ai-data-centre-demonstration-march-telus)
 - 2020 Council rezoning approval (office tower) and current data centre pivot (pre-application): [Daily Hive — office tower approved](https://dailyhive.com/vancouver/720-beatty-street-vancouver-office-tower-approved) · [Daily Hive — 10-storey data centre pivot](https://dailyhive.com/vancouver/150-west-georgia-street-720-beatty-street-vancouver-westbank-allied-data-centre-proposal)
 - NDP Humans-First AI Policy: [lewisisleader.ca/ideas/dignified-work](https://lewisisleader.ca/ideas/dignified-work)
 - CCPA data centre explainer: [Canadian Centre for Policy Alternatives](https://www.policyalternatives.ca/news-research/so-youre-getting-a-data-centre-heres-what-to-know/)
@@ -82,4 +83,4 @@ The Vancouver Centre NDP electoral district association has custody of all data 
 
 ---
 
-*Prepared by Barrett Soron for Vancouver Centre NDP | Sources verified as of May 18, 2026*
+*Prepared by Barrett Soron for Vancouver Centre NDP | Sources verified as of May 30, 2026*

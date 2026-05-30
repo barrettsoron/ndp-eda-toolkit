@@ -1,6 +1,6 @@
 # TODO — Vancouver Centre NDP Data Centre Campaign
 
-*Status snapshot as of 2026-05-20. Maintained by Vancouver Centre NDP.*
+*Status snapshot as of 2026-05-30. Maintained by Vancouver Centre NDP.*
 
 ---
 
@@ -27,6 +27,8 @@
 - [ ] **Indigenous outreach** — `indigenous-consultation-questions.md` exists as conversation starters. Decide who from the EDA brings these to xʷməθkʷəy̓əm, Skwxwú7mesh, and səlilwətaɬ contacts, and on what timeline. Do not surface this work in public materials before the conversations have happened.
 - [ ] **Councillor Sean Orr (City of Vancouver)** — already on the public record with concerns about urban-land use and ratepayer cost. Confirm whether he'd amplify the petition or co-sign an open letter.
 - [ ] **Federal NDP leader's office** — confirm Avi Lewis's office is briefed on the riding campaign and can amplify when signature counts justify a press moment.
+- [ ] **No AI Data Centres in Vancouver (`@no.ai.vancouver`)** — non-partisan grassroots group that organized the May 23 march (~750 people). Initiator Torin LaRocque. Establish liaison; coordinate signal-boost and presence at the **second march on Saturday, June 27, 2026 at 1 p.m.** without subsuming their organizing under NDP branding. They run a separate `change.org` petition; treat as a parallel vehicle, not a duplicate.
+- [ ] **BC Green Party Leader Emily Lowan** and **COPE City Council candidate Solomon Yi-Kieran** — both spoke at City Hall on May 23. Note for cross-party amplification opportunities, especially around any future public hearing on 111 East 5th.
 
 ---
 
@@ -35,7 +37,8 @@
 - [ ] **Anchor tenants** — if TELUS publicly names anchor tenants (Canadian or US-incorporated), update `tenant-explainer.md`, `proponent-response.md`, and `fact-sheet.md`. This is the single most consequential update one announcement could trigger.
 - [ ] **Rezoning status (150 W Georgia / 720 Beatty)** — monitor the City of Vancouver development application portal. Currently pre-application; a formal submission changes the municipal-track posture and the canvass talking points.
 - [ ] **BC Hydro allocation provenance** — the cluster announcement claims 85 MW already secured from BC Hydro. Worth confirming, for federal-track credibility, whether that allocation pre-dates or moved through Bill 31's competitive call (relevant because it bears on the rigour of ISED's sovereignty / community-benefit assessment).
-- [ ] **Sources-verified date** — README, fact-sheet, and tenant-explainer are stamped "as of May 18, 2026." Refresh when material facts change.
+- [ ] **TELUS operational claims (May 25, 2026)** — first sustained TELUS defence integrated into `proponent-response.md` (Claims 7/8/9: 80% efficiency, 150,000-homes heat capture, "world's most sustainable"). Watch for a permanent project page; replace media-reported framings with project-page text when published.
+- [ ] **Sources-verified date** — `README.md`, `fact-sheet.md`, `proponent-response.md`, and `tenant-explainer.md` are now stamped "as of May 30, 2026" (refreshed after the May 23 march and TELUS's May 25 response). Refresh again when material facts change.
 
 ---
 
@@ -46,4 +49,4 @@
 
 ---
 
-*Last reviewed 2026-05-20.*
+*Last reviewed 2026-05-30.*

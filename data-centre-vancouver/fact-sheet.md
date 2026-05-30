@@ -1,7 +1,7 @@
 # TELUS's Vancouver AI Data Centre Cluster: What Vancouver Needs to Know
 
 **Vancouver Centre NDP**
-*Unceded xʷməθkʷəy̓əm, Skwxwú7mesh, and səlilwətaɬ territory | Data and sources reviewed and verified as of May 18, 2026.*
+*Unceded xʷməθkʷəy̓əm, Skwxwú7mesh, and səlilwətaɬ territory | Data and sources reviewed and verified as of May 30, 2026.*
 
 ---
 
@@ -37,11 +37,13 @@ The *Tenant Explainer* later in this package picks up the trail of who will actu
 
 **A proposed 150 MW load on a grid still importing power.** BC Hydro's own 2025/26 second-quarter report shows net electricity imports of 2,041 GWh in the six months ending September 30, 2025 — down 56% from the drought-driven prior year, but still leaving the province dependent on the integrated Western Interconnection. Imports flow from Alberta and the US Pacific Northwest, where marginal generation remains coal- and gas-heavy. The 98%-renewable claim TELUS cites is accurate as a description of BC Hydro's *generation* mix on a typical year — but a marginal new 150 MW load is served by the marginal source, not the average. The BC cluster's projected annual demand (roughly 1.3 TWh at 150 MW running flat-out) is comparable in scale to what the province is currently net-importing. Adding hyperscale compute load to a grid in this position locks in import dependence and undermines BC's electrification of housing, transit, and industry.
 
-**Water in a province in drought.** Metro Vancouver entered 2026 in continuing drought conditions, with reservoir levels and snowpack below the long-term norm. Data centres consume large volumes of water both directly (for cooling) and indirectly (through the thermal generation of the electricity they use). EarthJustice, the US public-interest law firm, estimates traditional data centres consume **one to five million gallons of water per day** each. TELUS has stated that the downtown 150 W Georgia facility will use a closed-loop liquid cooling system targeting **90% lower water consumption** than a traditional data centre. That claim, if independently verified, addresses one site partially. It does not cover the Mount Pleasant office conversion, the Kamloops expansion, or the indirect grid-water cost.
+**Water in a province in drought.** Metro Vancouver entered 2026 in continuing drought conditions, with reservoir levels and snowpack below the long-term norm; **Stage 2 water restrictions were in force as of late May 2026.** Data centres consume large volumes of water both directly (for cooling) and indirectly (through the thermal generation of the electricity they use). EarthJustice, the US public-interest law firm, estimates traditional data centres consume **one to five million gallons of water per day** each. TELUS has stated that the downtown 150 W Georgia facility will use a closed-loop liquid cooling system targeting **90% lower water consumption** than a traditional data centre, and in a May 25, 2026 statement to *Daily Hive* quantified this as **"300 million litres saved each year."** That figure should be read carefully: 300 ML/yr saved implies a traditional baseline well below what EarthJustice cites for a single hyperscale facility, and Metro Vancouver consumes roughly 1 billion litres of water per day — so the saving is less than a single day of regional consumption. The 90% claim, if independently verified, addresses one site partially. It does not cover the Mount Pleasant office conversion, the Kamloops expansion, or the indirect grid-water cost.
 
 **Best use of downtown land?** Vancouver City Councillor **Sean Orr** has publicly asked whether data centres are the right use for limited urban infrastructure, energy, and space: *"If we were to ask the people of Vancouver how we should use our infrastructure, our energy, and our space, would they pick data centres or would they pick something else?"* Orr has also raised concern about whether costs for additional supporting infrastructure would fall on residents, and warned that data centres of this kind can be technologically obsolete within years. The Mount Pleasant site is immediately adjacent to residential neighbourhoods, raising local questions about noise, vibration, exhaust, and the conversion of office space.
 
 **A federal program approving its first project before public debate has happened.** ISED's *Enabling Large-Scale Sovereign AI Data Centres* call closed and the first approval was announced inside a single news cycle. There has been no parliamentary committee review of the criteria, no public consultation on the program's design, and no published assessment matrix showing why this project cleared and others did not. Federal NDP Leader **Avi Lewis** has called for a pause on new data centre construction, saying "we can't sit back and let Big Tech billionaires decide our future."
+
+**Local opposition is mobilizing.** On **May 23, 2026**, an estimated **750 people** marched from Waterfront Station through downtown Vancouver to City Hall against the cluster, organized by **No AI Data Centres in Vancouver** (`@no.ai.vancouver`). Speakers at City Hall included **BC Green Party Leader Emily Lowan**, **COPE Vancouver City Council candidate Solomon Yi-Kieran**, and march initiator **Torin LaRocque**. A second march is planned for **Saturday, June 27, 2026** at 1 p.m. The federal NDP petition and the broader movement are separate vehicles asking aligned questions of different levels of government.
 
 ---
 
@@ -98,6 +100,7 @@ Talk to your local Vancouver Centre NDP volunteer, or contact the riding associa
 - Metro Vancouver water concerns: [CTV News Vancouver](https://www.ctvnews.ca/vancouver/article/metro-vancouver-is-running-out-of-water-skepticism-surrounding-new-ai-data-centres/)
 - BC Hydro net import volumes (primary): [BC Hydro 2025/26 Q2 Report (PDF)](https://www.bchydro.com/content/dam/BCHydro/customer-portal/documents/corporate/accountability-reports/financial-reports/quarterly-reports/bchydro-f26-q2-report.pdf) · [Importing and Exporting Power](https://www.bchydro.com/energy-in-bc/operations/power-trading-and-its-benefits-to-b-c--.html)
 - Opposition (Avi Lewis, Sean Orr, EarthJustice): [Daily Hive — opposition piece](https://dailyhive.com/vancouver/vancouver-ai-data-centre-proposal-opposition)
+- May 23 protest and TELUS response (300 ML water, 80% efficient, 150,000-homes heat capture, June 27 second march): [Daily Hive — Huge protest against Vancouver AI data centres sparks response from TELUS](https://dailyhive.com/vancouver/vancouver-ai-data-centre-demonstration-march-telus)
 - NDP Humans-First AI Policy: [lewisisleader.ca/ideas/dignified-work](https://lewisisleader.ca/ideas/dignified-work)
 - CCPA data centre explainer: [Canadian Centre for Policy Alternatives](https://www.policyalternatives.ca/news-research/so-youre-getting-a-data-centre-heres-what-to-know/)
 - Microsoft France Senate testimony ("cannot guarantee"): [Cyber in Context](https://www.cyberincontext.ca/p/microsoft-admits-us-law-supersedes)
@@ -105,4 +108,4 @@ Talk to your local Vancouver Centre NDP volunteer, or contact the riding associa
 
 ---
 
-*Vancouver Centre NDP | Sources verified as of May 18, 2026*
+*Vancouver Centre NDP | Sources verified as of May 30, 2026*

@@ -1,13 +1,13 @@
 # Responding to TELUS's Public Framing
 
 **Vancouver Centre NDP**
-*Unceded xʷməθkʷəy̓əm, Skwxwú7mesh, and səlilwətaɬ territory | Sources verified as of May 18, 2026*
+*Unceded xʷməθkʷəy̓əm, Skwxwú7mesh, and səlilwətaɬ territory | Sources verified as of May 30, 2026*
 
 ---
 
 ## About this document
 
-The Regina module includes a claim-by-claim rebuttal of Bell's `businessmarkets.bell.ca/regina-info` page. TELUS has not yet published an analogous standalone project page; the framings below are drawn from the May 13, 2026 announcement materials and TELUS's media interviews and statements through that week. **Update this file when TELUS publishes a permanent project information page.**
+The Regina module includes a claim-by-claim rebuttal of Bell's `businessmarkets.bell.ca/regina-info` page. TELUS has not yet published an analogous standalone project page; the framings below are drawn from the May 13, 2026 announcement materials, TELUS's media interviews and statements through that week, and TELUS's May 25, 2026 follow-up statement to *Daily Hive* responding to the May 23 protest — its first sustained operational defence of the cluster. **Update this file when TELUS publishes a permanent project information page.**
 
 ---
 
@@ -41,7 +41,9 @@ Adding 150 MW of compute load also competes directly with the electrification BC
 2. **One site of three.** The Mount Pleasant office conversion and the Kamloops expansion have not been described in the same cooling-architecture detail. Cluster-wide water consumption cannot be calculated from one site's headline number.
 3. **Closed-loop trades water for electricity.** Moving the same heat without evaporation requires more chiller and air-side rejection capacity, which means more electricity. In a grid deficit, that means more imported gas/coal — substituting one environmental cost for another.
 
-Metro Vancouver entered 2026 in continuing drought. The water question is real. The 90% figure addresses part of it for one building.
+Metro Vancouver entered 2026 in continuing drought, with Stage 2 water restrictions in force as of late May 2026. The water question is real. The 90% figure addresses part of it for one building.
+
+**Update — May 25, 2026.** In a follow-up statement to *Daily Hive*, TELUS quantified the saving as **"300 million litres saved each year."** Two things to note. **Against what baseline:** EarthJustice cites traditional data centres at 1–5 million gallons per day, or roughly 1,400–7,000 million litres per year *per facility*. TELUS's 300 ML/yr saved implies a traditional baseline of around 333 ML/yr — well below the EarthJustice figure for a single hyperscale centre — suggesting the comparison is to a much smaller reference facility, or to one site only rather than the cluster. **And at what scale:** Metro Vancouver consumes roughly 1 billion litres of water per day; 300 ML/yr saved is less than a single day of regional consumption. Real, but not large at regional scale, and the comparison should be made explicit before the figure is cited.
 
 ---
 
@@ -75,6 +77,38 @@ In other words: the data centre as a use has **not** been approved by Council. A
 
 ---
 
+## Claim 7: "80 per cent more energy-efficient than a traditional data centre"
+
+**TELUS framing.** Per TELUS's May 25, 2026 statement to *Daily Hive*, the Vancouver facilities will be "80 per cent more energy-efficient than a traditional data centre."
+
+**Response.** This describes a Power Usage Effectiveness (PUE) improvement — the share of facility power going to cooling and overhead rather than compute. Traditional PUE runs ~1.6–1.8; modern liquid-cooled facilities ~1.1–1.2. A drop from 1.7 to 1.1 cuts *overhead* by roughly 85% but reduces *total facility power per unit of compute* by ~35%. The efficiency gain is real — and it does not reduce the compute load itself.
+
+The 26 MW (Mount Pleasant) and 100 MW (downtown) figures TELUS has announced **already include** this efficiency gain. The grid impact is what it is; the 80% figure does not shrink it. And per-square-foot facility power is going *up*, not down: AI compute racks pull 50–130 kW each, many times what conventional server racks draw. The efficiency is per unit of compute. The absolute load is the largest the building has ever carried.
+
+---
+
+## Claim 8: "Heating the equivalent of 150,000 homes" via waste heat capture
+
+**TELUS framing.** Waste heat will be captured and fed into Vancouver's Neighbourhood Energy Utility in Mount Pleasant and Creative Energy's downtown district energy system, "heating the equivalent of 150,000 homes in Metro Vancouver" — "every electron twice."
+
+**Response.** Heat capture into district energy is a genuine virtue when it works. Three things the headline does not address:
+
+1. **Seasonal mismatch.** Heat is useful in winter. Summer waste heat has no space-heating demand and must be rejected to atmosphere or removed by additional chiller load. "150,000 homes" is an annualized gross thermal-output figure, not a delivered heating service. Real homes don't run on July heat.
+2. **Distribution infrastructure does not exist at that scale.** Vancouver's Neighbourhood Energy Utility serves Olympic Village; Creative Energy's downtown system serves the downtown core. Neither currently reaches anything close to 150,000 dwellings. The pipe network to deliver heat to that many homes is not part of this project, not budgeted, and not announced.
+3. **Low-grade heat requires upgrading.** Liquid cooling rejects heat at roughly 30–40°C; district heating supply runs ~70–90°C. Bridging that gap takes heat pumps consuming additional electricity. Free heat in the brochure; not free heat in the system.
+
+Heat capture as a design feature is welcome. **"Heating 150,000 homes" as a delivered outcome would require infrastructure that is not part of this project, on a timeline that has not been disclosed.** Until the receiving district-energy utilities publish a scaled commitment to take, upgrade, and deliver that heat, the figure is a theoretical gross thermal maximum — not a service.
+
+---
+
+## Claim 9: "World's most sustainable sovereign AI data centres"
+
+**TELUS framing.** "Designed to be the world's most sustainable sovereign AI data centres, our Vancouver facilities will set a new global standard for sustainable AI infrastructure" (May 25, 2026).
+
+**Response.** Sustainability superlatives need a comparator and a measurement. "World's most sustainable" is not a defined category. TELUS has not published a sustainability methodology, a third-party-verified PUE, a Water Usage Effectiveness (WUE) figure, embodied-carbon analysis for construction, or anchor-tenant disclosure that would let "sustainable AI" be evaluated. Until those are public and independently reviewed, the claim is marketing.
+
+---
+
 ## Anticipated future framings to rebut
 
 If TELUS publishes a standalone project page or runs a sustained communications campaign, the following are likely. Add rebuttals here as they appear:
@@ -89,6 +123,7 @@ If TELUS publishes a standalone project page or runs a sustained communications 
 ## Sources
 
 - TELUS announcement and quotes: [Daily Hive](https://dailyhive.com/vancouver/telus-sovereign-ai-factory-data-centre-vancouver-westbank-project-locations) · [BetaKit](https://betakit.com/steel-concrete-and-code-feds-and-telus-announce-three-ai-data-centres-in-bc/) · [Globe and Mail](https://www.theglobeandmail.com/business/article-telus-plans-ai-data-centre-expansion-in-bc-including-two-new-centres/)
+- TELUS May 25, 2026 response to the May 23 protest (300 ML water, 80% efficient, 150,000-homes heat capture): [Daily Hive — Huge protest against Vancouver AI data centres sparks response from TELUS](https://dailyhive.com/vancouver/vancouver-ai-data-centre-demonstration-march-telus)
 - Opposition voices (Lewis, Orr, EarthJustice): [Daily Hive — opposition piece](https://dailyhive.com/vancouver/vancouver-ai-data-centre-proposal-opposition)
 - 720 Beatty / 150 W Georgia 2020 Council approval (office tower): [Daily Hive — New BC Place office tower approved by City Council](https://dailyhive.com/vancouver/720-beatty-street-vancouver-office-tower-approved)
 - Current data centre pivot, pre-application status: [Daily Hive — 10-storey AI data centre pivot for Westbank's stalled Vancouver office project](https://dailyhive.com/vancouver/150-west-georgia-street-720-beatty-street-vancouver-westbank-allied-data-centre-proposal)
@@ -97,4 +132,4 @@ If TELUS publishes a standalone project page or runs a sustained communications 
 
 ---
 
-*Vancouver Centre NDP | Sources verified as of May 18, 2026*
+*Vancouver Centre NDP | Sources verified as of May 30, 2026*
