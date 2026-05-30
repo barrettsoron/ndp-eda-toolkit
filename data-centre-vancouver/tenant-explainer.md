@@ -1,7 +1,7 @@
 # Tenant Explainer: TELUS, Westbank, and the Sovereign AI Program
 
 **Vancouver Centre NDP**
-*Unceded xʷməθkʷəy̓əm, Skwxwú7mesh, and səlilwətaɬ territory | Sources verified as of May 18, 2026*
+*Unceded xʷməθkʷəy̓əm, Skwxwú7mesh, and səlilwətaɬ territory | Sources verified as of May 30, 2026*
 
 ---
 
@@ -30,6 +30,8 @@ The Canadian-incorporation point is load-bearing. If TELUS itself were the AI co
 Westbank is a privately held Vancouver real estate developer founded by Ian Gillespie in 1992. Its portfolio includes Vancouver House, Telus Garden, the Oakridge Park redevelopment, and Mirvish Village in Toronto. Westbank is the developer partner on both proposed Vancouver sites: the Mount Pleasant office conversion of the M3 building (111 East 5th Ave) and the proposed new downtown facility at 150 West Georgia / 720 Beatty St beside BC Place. As of May 18, 2026, no formal rezoning application for the downtown data centre use has been reported as submitted to the City.
 
 The downtown facility is integrated with the **Creative Energy** district-energy system, which operates the steam-loop network that heats more than 200 buildings on the downtown peninsula. The data centre is planned to sit atop an expanded and replaced steam plant being built below-grade on the same parcel; the heat-rejection design appears to envisage some integration with the district-energy system, though specifics have not been published.
+
+Creative Energy is **also owned by Gillespie's Westbank**. In 2014, Westbank acquired the existing Vancouver district-heat utility — Central Heat Distribution — for $32 million and rebranded it Creative Energy. So the data centre developer (Westbank), the parcel and the steam plant beneath the proposed building (Westbank), and the district-energy utility that TELUS proposes to feed captured waste heat into (Creative Energy, Westbank-owned) are all parts of the same private group. The operator of the compute floors above (TELUS) is separately owned.
 
 **Allied Properties REIT** is publicly reported to be involved in the downtown site as a lender and equity partner. Westbank itself is privately held; its capital structure is not public.
 
@@ -80,6 +82,7 @@ Canadian-flag steel and concrete in Vancouver does not change the legal regime r
 ## Sources
 
 - TELUS announcement and Westbank partnership: [Daily Hive — TELUS sovereign AI factory data centre Vancouver Westbank project locations](https://dailyhive.com/vancouver/telus-sovereign-ai-factory-data-centre-vancouver-westbank-project-locations)
+- Westbank's 2014 acquisition of Central Heat Distribution / Creative Energy ($32M, downtown district-heat utility): [Ian Gillespie (developer) — Wikipedia](https://en.wikipedia.org/wiki/Ian_Gillespie_(developer)) · [CityHallWatch — Creative Energy district heat monopoly](https://cityhallwatch.wordpress.com/2016/03/30/creative-energy-district-heat-monopoly/)
 - Federal program criteria and ministerial framing: [BetaKit — Steel, concrete and code](https://betakit.com/steel-concrete-and-code-feds-and-telus-announce-three-ai-data-centres-in-bc/)
 - TELUS corporate strategy: [Globe and Mail](https://www.theglobeandmail.com/business/article-telus-plans-ai-data-centre-expansion-in-bc-including-two-new-centres/)
 - Sovereign AI national context: [CBC — Bakx](https://www.cbc.ca/news/business/bakx-canada-sovereign-ai-9.7198649)
@@ -89,4 +92,4 @@ Canadian-flag steel and concrete in Vancouver does not change the legal regime r
 
 ---
 
-*Vancouver Centre NDP | Sources verified as of May 18, 2026*
+*Vancouver Centre NDP | Sources verified as of May 30, 2026*

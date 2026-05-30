@@ -99,6 +99,8 @@ The 26 MW (Mount Pleasant) and 100 MW (downtown) figures TELUS has announced **a
 
 Heat capture as a design feature is welcome. **"Heating 150,000 homes" as a delivered outcome would require infrastructure that is not part of this project, on a timeline that has not been disclosed.** Until the receiving district-energy utilities publish a scaled commitment to take, upgrade, and deliver that heat, the figure is a theoretical gross thermal maximum — not a service.
 
+One structural note worth carrying alongside the figure: **Creative Energy** — the downtown district-energy system named as the heat-capture recipient — was acquired by Westbank in 2014 (when Westbank bought Central Heat Distribution for $32M and rebranded it). So the data centre's developer, the parcel under the steam plant, and the utility that would buy and resell the captured heat are all parts of the same private group; only the compute operator (TELUS) is separately owned. The promise of "every electron twice" depends on infrastructure largely owned by one of the proponents.
+
 ---
 
 ## Claim 9: "World's most sustainable sovereign AI data centres"

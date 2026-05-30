@@ -76,7 +76,7 @@ The NDP draws a clear line between small-scale, publicly useful machine learning
 
 ## Who benefits? Who pays?
 
-If built as announced, this cluster would benefit TELUS, Westbank, the still-unnamed AI companies that would rent the compute, and the federal department that gets to launch a flagship program with a Canadian-flag corporate face on it. The 150 MW of grid load, the cooling water, the construction disruption, the conversion of urban space, and the carbon cost of any imported generation needed to balance the load would stay with British Columbians.
+If built as announced, this cluster would benefit TELUS, Westbank (and Creative Energy, the downtown district-heat utility Westbank acquired in 2014 — the same system named as the heat-capture recipient for the downtown facility), the still-unnamed AI companies that would rent the compute, and the federal department that gets to launch a flagship program with a Canadian-flag corporate face on it. The 150 MW of grid load, the cooling water, the construction disruption, the conversion of urban space, and the carbon cost of any imported generation needed to balance the load would stay with British Columbians.
 
 525 permanent jobs across three sites is a real number. It is also a number that has to be set honestly against the scale of grid and water commitment being asked of a province already in drought and an energy deficit.
 
